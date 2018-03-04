@@ -1,6 +1,6 @@
 ## Data Science Project - CS 838
 
-Entity Recognition (ER) of *Hotels* entities.
+Entity Recognition (ER) of *Hotel* names.
 
 ### Team Members
 - Akila Nagamani (nagamani@wisc.edu)
