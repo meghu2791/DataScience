@@ -1,0 +1,4 @@
+Information extractor on Hotel names
+
+We have chosen Hotel names as our entity type. They are marked-up using '#' in all the documents. 
+For example, hotel Westin is located in Seattle will be marked as hotel #Westin# is located in Seattle.
