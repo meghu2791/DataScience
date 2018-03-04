@@ -7,8 +7,8 @@ from sklearn import metrics
 from sklearn.model_selection import ShuffleSplit
 import os
 
-train_source = "./DataSets/TrainDataSet"
-test_source = "./DataSets/TestDataSet"
+train_source = "./../DataSets/TrainDataSet"
+test_source = "./../DataSets/TestDataSet"
 
 train_files = os.listdir(train_source)
 test_files = os.listdir(test_source)
