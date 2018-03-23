@@ -1,6 +1,6 @@
 ## Data Science Project - CS 838
 
-Entity Extraction for *Hotel* names.
+Entity Extraction.
 
 ### Team Members
 - Akila Nagamani (nagamani@wisc.edu)
