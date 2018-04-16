@@ -20,4 +20,7 @@ Stage 2
 - [DATA](https://github.com/meghu2791/DataScience/tree/master/Stage2/DATA)
 - [Report](https://github.com/meghu2791/DataScience/tree/master/Stage2/Stage2_report.pdf)
 
-
+Stage 3
+- [CODE](https://github.com/meghu2791/DataScience/tree/master/Stage3/CODE)
+- [DATA](https://github.com/meghu2791/DataScience/tree/master/Stage3/DATA)
+- [Report](https://github.com/meghu2791/DataScience/tree/master/Stage3/Stage3_report.pdf)
