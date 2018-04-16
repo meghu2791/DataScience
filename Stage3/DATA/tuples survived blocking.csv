@@ -1,0 +1,566 @@
+,_id,ltable_ID,rtable_ID,ltable_title,ltable_author,rtable_title,rtable_author
+0,0,a1,b1421,To Kill a Mockingbird,Harper Lee,To Kill a Mockingbird,Harper Lee
+1,1,a10,b2979,Jane Eyre,Charlotte Brontë,Jane Eyre,Charlotte Bronte
+2,2,a1003,b1012,Mrs. Frisby and the Rats of NIMH (Rats of NIMH #1),Robert C. O'Brien,The Million Dollar Decision: Get Out of the Rigged Game of Investing and Add a Million to Your Net Worth,Robert Rolih
+3,3,a1003,b1932,Mrs. Frisby and the Rats of NIMH (Rats of NIMH #1),Robert C. O'Brien,The 21 Irrefutable Laws of Leadership: Follow Them and People Will Follow You (10th Anniversary Edition),John C. Maxwell and 
+4,4,a1003,b2980,Mrs. Frisby and the Rats of NIMH (Rats of NIMH #1),Robert C. O'Brien,"The Lion, the Witch and the Wardrobe (The Chronicles of Narnia)", C. S. Lewis
+5,5,a1003,b583,Mrs. Frisby and the Rats of NIMH (Rats of NIMH #1),Robert C. O'Brien,Behave: The Biology of Humans at Our Best and Worst,Robert M. Sapolsky
+6,6,a102,b302,The Good Earth (House of Earth #1),Pearl S. Buck,Cabal of The Westford Knight: Templars at the Newport Tower (Book #1 in the Templars in America Series),David S. Brody
+7,7,a1024,b1513,SHOT DOWN: The true story of pilot Howard Snyder and the crew of the B-17 Susan Ruth,Steve Snyder,The True Adventures of Esther the Wonder Pig,Steve Jenkins and 
+8,8,a1026,b2416,Way of the Peaceful Warrior: A Book That Changes Lives,Dan Millman,The Fight: A Secret Service Agent's Inside Account of Security Failings and the Political Machine,Dan Bongino
+9,9,a1029,b2180,The Absolutely True Diary of a Part-Time Indian,Sherman Alexie,The Absolutely True Diary of a Part-Time Indian,Sherman Alexie and 
+10,10,a1034,b615,The Very Hungry Caterpillar,Eric Carle,The Very Hungry Caterpillar,Eric Carle
+11,11,a1051,b1093,Sapiens: A Brief History of Humankind,Yuval Noah Harari,Homo Deus: A Brief History of Tomorrow,Yuval Noah Harari
+12,12,a1051,b1449,Sapiens: A Brief History of Humankind,Yuval Noah Harari,Sapiens: A Brief History of Humankind,Yuval Noah Harari
+13,13,a1058,b100,The Hot Zone: The Terrifying True Story of the Origins of the Ebola Virus,Richard   Preston,The Lost City of the Monkey God: A True Story,Douglas Preston
+14,14,a1058,b1076,The Hot Zone: The Terrifying True Story of the Origins of the Ebola Virus,Richard   Preston,Dr. Feelgood: The Shocking Story of the Doctor Who May Have Changed History by Treating and Drugging JFK Marilyn Elvis and Other Prominent Figures,Richard A. Lertzman and 
+15,15,a107,b1199,A Wrinkle in Time (A Wrinkle in Time Quintet #1),Madeleine L'Engle,A Wrinkle in Time Movie Tie-In Edition (A Wrinkle in Time Quintet),Madeleine L'Engle
+16,16,a107,b1306,A Wrinkle in Time (A Wrinkle in Time Quintet #1),Madeleine L'Engle,A Wrinkle in Time (Time Quintet),Madeleine L'Engle
+17,17,a107,b1315,A Wrinkle in Time (A Wrinkle in Time Quintet #1),Madeleine L'Engle,The Wrinkle in Time Quintet Boxed Set (A Wrinkle in Time A Wind in the Door A Swiftly Tilting Planet Many Waters An Acceptable Time),Madeleine L'Engle
+18,18,a107,b1525,A Wrinkle in Time (A Wrinkle in Time Quintet #1),Madeleine L'Engle,A Wrinkle in Time: The Graphic Novel,Madeleine L'Engle and 
+19,19,a107,b1648,A Wrinkle in Time (A Wrinkle in Time Quintet #1),Madeleine L'Engle,Wrinkle in Time / Wind in the Door / Swiftly Tiltling Planet,Madeleine L'Engle
+20,20,a107,b1681,A Wrinkle in Time (A Wrinkle in Time Quintet #1),Madeleine L'Engle,A Wind in the Door (A Wrinkle in Time Quintet),Madeleine L'Engle
+21,21,a107,b1750,A Wrinkle in Time (A Wrinkle in Time Quintet #1),Madeleine L'Engle,A Wrinkle in Time: 50th Anniversary Commemorative Edition (A Wrinkle in Time Quintet),Madeleine L'Engle
+22,22,a107,b2144,A Wrinkle in Time (A Wrinkle in Time Quintet #1),Madeleine L'Engle,A Swiftly Tilting Planet (A Wrinkle in Time Quintet),Madeleine L'Engle
+23,23,a107,b2828,A Wrinkle in Time (A Wrinkle in Time Quintet #1),Madeleine L'Engle,A Wrinkle in Time (A Wrinkle in Time Quintet Book 1),Madeleine L'Engle
+24,24,a1080,b227,A Man Called Ove,Fredrik Backman,A Man Called Ove: A Novel,Fredrik Backman
+25,25,a1081,b660,Hotel on the Corner of Bitter and Sweet,Jamie Ford,Black Cat 2-1: The True Story of a Vietnam Helicopter Pilot and His Crew,Bob Ford
+26,26,a1085,b700,Wild at Heart: Discovering the Secret of a Man's Soul,John Eldredge,Stephen Curry: Rise of the Star. The inspiring and interesting life story from a struggling young boy to become the legend. Life of Stephen Curry - one of the best basketball shooters in history.,John Emerson
+27,27,a109,b540,The Fault in Our Stars,John Green,The Fault in Our Stars,John Green
+28,28,a11,b321,The Book Thief,Markus Zusak,The Book Thief,Markus Zusak
+29,29,a111,b2170,The Perks of Being a Wallflower,Stephen Chbosky,On Writing: 10th Anniversary Edition: A Memoir of the Craft,Stephen King
+30,30,a111,b2430,The Perks of Being a Wallflower,Stephen Chbosky,The Perks of Being a Wallflower,Stephen Chbosky
+31,31,a111,b963,The Perks of Being a Wallflower,Stephen Chbosky,Stephen Curry: Never Give Up. A Boy Who Became a Star. Inspiring Children Book About One of the Best Basketball Players in History.,Stephen Herman
+32,32,a1114,b2697,The Stranger Beside Me: Ted Bundy The Shocking Inside Story,Ann Rule,The Stranger Beside Me,Ann Rule
+33,33,a1115,b1604,The Mark of Athena (The Heroes of Olympus #3),Rick Riordan,The Heroes of Olympus Paperback Boxed Set,Rick Riordan and 
+34,34,a1115,b1812,The Mark of Athena (The Heroes of Olympus #3),Rick Riordan,Magnus Chase and the Gods of Asgard Book 3 The Ship of the Dead,Rick Riordan
+35,35,a112,b1343,Harry Potter Boxset (Harry Potter #1-7),J.K. Rowling,Harry Potter Paperback Box Set (Books 1-7),J. K. Rowling and 
+36,36,a1121,b1673,The Case for Christ,Lee Strobel,The Case for Christ: A Journalist's Personal Investigation of the Evidence for Jesus (Case for ... Series),Lee Strobel
+37,37,a1127,b1448,Thinking Fast and Slow,Daniel Kahneman,Thinking Fast and Slow,Daniel Kahneman
+38,38,a114,b1860,Brave New World,Aldous Huxley,Brave New World,Aldous Huxley
+39,39,a1153,b1943,Americanah,Chimamanda Ngozi Adichie,Americanah,Chimamanda Ngozi Adichie
+40,40,a1165,b1352,Emotional Intelligence 2.0: With Access Code,Travis Bradberry,Emotional Intelligence 2.0,Travis Bradberry and 
+41,41,a1173,b107,The Innocent Man: Murder and Injustice in a Small Town,John Grisham,The Angry Therapist: A No BS Guide to Finding and Living Your Own Truth,John Kim
+42,42,a1173,b320,The Innocent Man: Murder and Injustice in a Small Town,John Grisham,The Man Who Could Be King: A Novel,John Ripin Miller
+43,43,a1173,b700,The Innocent Man: Murder and Injustice in a Small Town,John Grisham,Stephen Curry: Rise of the Star. The inspiring and interesting life story from a struggling young boy to become the legend. Life of Stephen Curry - one of the best basketball shooters in history.,John Emerson
+44,44,a1177,b1868,The Gulag Archipelago 1918-1956,Aleksandr Solzhenitsyn,The Gulag Archipelago Abridged: An Experiment in Literary Investigation (P.S.),Aleksandr Solzhenitsyn
+45,45,a118,b2106,Where the Red Fern Grows,Wilson Rawls,Where the Red Fern Grows,Wilson Rawls
+46,46,a1181,b1907,Diary of a Wimpy Kid (Diary of a Wimpy Kid #1),Jeff Kinney,Diary of a Wimpy Kid #11: Double Down,Jeff Kinney
+47,47,a1181,b2054,Diary of a Wimpy Kid (Diary of a Wimpy Kid #1),Jeff Kinney,Diary of a Wimpy Kid #10: Old School,Jeff Kinney
+48,48,a1181,b2159,Diary of a Wimpy Kid (Diary of a Wimpy Kid #1),Jeff Kinney,Diary of a Wimpy Kid Book 1,Jeff Kinney
+49,49,a1196,b1604,The Son of Neptune (The Heroes of Olympus #2),Rick Riordan,The Heroes of Olympus Paperback Boxed Set,Rick Riordan and 
+50,50,a1199,b1046,We Got Zombies On The Lawn Again Ma (Ax Handel's Special Zombie Notebooks Book 1),Donnie  Smith,The Football Boy Wonder: (Football book for kids 7-13) (The Charlie Fry Series) (Volume 1),Martin Smith and 
+51,51,a12,b2980,The Chronicles of Narnia (Chronicles of Narnia #1-7),C.S. Lewis,"The Lion, the Witch and the Wardrobe (The Chronicles of Narnia)", C. S. Lewis
+52,52,a1200,b700,The Sorrows of Young Mike,John Zelazny,Stephen Curry: Rise of the Star. The inspiring and interesting life story from a struggling young boy to become the legend. Life of Stephen Curry - one of the best basketball shooters in history.,John Emerson
+53,53,a1201,b1792,The Hero With a Thousand Faces,Joseph Campbell,The Hero with a Thousand Faces (The Collected Works of Joseph Campbell),Joseph Campbell
+54,54,a1205,b1990,The Power of a Praying Wife,Stormie Omartian,The Power of a Praying® Wife,Stormie Omartian
+55,55,a1209,b2177,On the Banks of Plum Creek  (Little House #4),Laura Ingalls Wilder,The Little House (9 Volumes Set),Laura Ingalls Wilder and 
+56,56,a1213,b700,A Son of the Circus,John Irving,Stephen Curry: Rise of the Star. The inspiring and interesting life story from a struggling young boy to become the legend. Life of Stephen Curry - one of the best basketball shooters in history.,John Emerson
+57,57,a1218,b1604,The House of Hades (The Heroes of Olympus #4),Rick Riordan,The Heroes of Olympus Paperback Boxed Set,Rick Riordan and 
+58,58,a1221,b1008,Buddenbrooks: The Decline of a Family,Thomas Mann,The National Parks of the United States: A Photographic Journey,Andrew Thomas
+59,59,a1221,b1052,Buddenbrooks: The Decline of a Family,Thomas Mann,Beyond Anger: A Guide for Men: How to Free Yourself from the Grip of Anger and Get More Out of Life,Thomas J. Harbin
+60,60,a1230,b134,Same Kind of Different as Me: A Modern-Day Slave an International Art Dealer and the Unlikely Woman Who Bound Them Together,Ron Hall,Running on Red Dog Road: And Other Perils of an Appalachian Childhood,Drema Hall Berkheimer
+61,61,a1230,b463,Same Kind of Different as Me: A Modern-Day Slave an International Art Dealer and the Unlikely Woman Who Bound Them Together,Ron Hall,The Darkest Night: Two Sisters a Brutal Murder and the Loss of Innocence in a Small Town,Ron Franscell
+62,62,a1230,b467,Same Kind of Different as Me: A Modern-Day Slave an International Art Dealer and the Unlikely Woman Who Bound Them Together,Ron Hall,Workin' Our Way Home: The Incredible True Story of a Homeless Ex-Con and a Grieving Millionaire Thrown Together to Save Each Other,Ron Hall
+63,63,a1231,b1052,How to Read a Book: The Classic Guide to Intelligent Reading,Mortimer J. Adler,Beyond Anger: A Guide for Men: How to Free Yourself from the Grip of Anger and Get More Out of Life,Thomas J. Harbin
+64,64,a1231,b2311,How to Read a Book: The Classic Guide to Intelligent Reading,Mortimer J. Adler,The APRN’s Complete Guide to Prescribing Drug Therapy 2018,Mari J. Wirfs PhD  MN  APRN  ANP-BC  FNP-BC  CNE
+65,65,a1231,b2614,How to Read a Book: The Classic Guide to Intelligent Reading,Mortimer J. Adler,The Everything Essential Dog Training and Tricks Book: All You Need to Train Your Dog in No Time,Gerilyn J Bielakiewicz
+66,66,a1231,b558,How to Read a Book: The Classic Guide to Intelligent Reading,Mortimer J. Adler,A Perfumer's Secret: A Novel (From Paris to Provence Book 1),Adria J. Cimino
+67,67,a1238,b190,The One and Only Ivan,Katherine Applegate,The One and Only Ivan,Katherine Applegate and 
+68,68,a1241,b2177,The Long Winter (Little House #6),Laura Ingalls Wilder,The Little House (9 Volumes Set),Laura Ingalls Wilder and 
+69,69,a125,b2986,Catching Fire (The Hunger Games #2),Suzanne Collins,The Hunger Games,Suzanne Collins
+70,70,a1250,b1723,The Artist's Way,Julia Cameron,The Artist's Way: 25th Anniversary Edition,Julia Cameron
+71,71,a1258,b1028,The Power of Habit: Why We Do What We Do in Life and Business,Charles Duhigg,The Power of Habit: Why We Do What We Do in Life and Business,Charles Duhigg
+72,72,a1258,b16,The Power of Habit: Why We Do What We Do in Life and Business,Charles Duhigg,Bluewater Stalker: The Sixth Novel in the Caribbean Mystery and Adventure Series (Bluewater Thrillers Book 6),Charles Dougherty
+73,73,a1261,b1863,Think and Grow Rich,Napoleon Hill,Think and Grow Rich: The Original an Official Publication of The Napoleon Hill Foundation,Napoleon Hill
+74,74,a1261,b2763,Think and Grow Rich,Napoleon Hill,Think And Grow Rich,Napoleon Hill
+75,75,a1266,b1604,The Blood of Olympus (The Heroes of Olympus #5),Rick Riordan,The Heroes of Olympus Paperback Boxed Set,Rick Riordan and 
+76,76,a1281,b107,Diet for a New America: How Your Food Choices Affect Your Health Happiness and the Future of Life on Earth,John Robbins,The Angry Therapist: A No BS Guide to Finding and Living Your Own Truth,John Kim
+77,77,a1281,b14,Diet for a New America: How Your Food Choices Affect Your Health Happiness and the Future of Life on Earth,John Robbins,Unfu*k Yourself: Get Out of Your Head and into Your Life,Gary John Bishop
+78,78,a1281,b1532,Diet for a New America: How Your Food Choices Affect Your Health Happiness and the Future of Life on Earth,John Robbins,The Seven Principles for Making Marriage Work: A Practical Guide from the Country's Foremost Relationship Expert,John Gottman PhD and 
+79,79,a1281,b1613,Diet for a New America: How Your Food Choices Affect Your Health Happiness and the Future of Life on Earth,John Robbins,The 5 Second Rule: Transform your Life Work and Confidence with Everyday Courage,Mel Robbins
+80,80,a1281,b171,Diet for a New America: How Your Food Choices Affect Your Health Happiness and the Future of Life on Earth,John Robbins,Tin Can Titans: The Heroic Men and Ships of World War II's Most Decorated Navy Destroyer Squadron,John Wukovits
+81,81,a1281,b1772,Diet for a New America: How Your Food Choices Affect Your Health Happiness and the Future of Life on Earth,John Robbins,Rise and Grind: Outperform Outwork and Outhustle Your Way to a More Successful and Rewarding Life,Daymond John and 
+82,82,a1281,b1932,Diet for a New America: How Your Food Choices Affect Your Health Happiness and the Future of Life on Earth,John Robbins,The 21 Irrefutable Laws of Leadership: Follow Them and People Will Follow You (10th Anniversary Edition),John C. Maxwell and 
+83,83,a1281,b2071,Diet for a New America: How Your Food Choices Affect Your Health Happiness and the Future of Life on Earth,John Robbins,Imagine Heaven: Near-Death Experiences God's Promises and the Exhilarating Future That Awaits You,John Burke and 
+84,84,a1281,b2131,Diet for a New America: How Your Food Choices Affect Your Health Happiness and the Future of Life on Earth,John Robbins,Happiness Is a Choice You Make: Lessons from a Year Among the Oldest Old,John Leland
+85,85,a1281,b700,Diet for a New America: How Your Food Choices Affect Your Health Happiness and the Future of Life on Earth,John Robbins,Stephen Curry: Rise of the Star. The inspiring and interesting life story from a struggling young boy to become the legend. Life of Stephen Curry - one of the best basketball shooters in history.,John Emerson
+86,86,a13,b2209,Romeo and Juliet,William Shakespeare,Romeo and Juliet (No Fear Shakespeare),William Shakespeare
+87,87,a130,b1420,Man's Search for Meaning,Viktor E. Frankl,Man's Search for Meaning,Viktor E. Frankl and 
+88,88,a1300,b1779,The Millionaire Next Door: The Surprising Secrets of America's Wealthy,Thomas J. Stanley,Harry Potter And The Chamber Of Secrets,J. K. Rowling and 
+89,89,a131,b1630,A Game of Thrones (A Song of Ice and Fire #1),George R.R. Martin,A Game of Thrones / A Clash of Kings / A Storm of Swords / A Feast of Crows / A Dance with Dragons,George R. R. Martin
+90,90,a1326,b1015,The Complete Anne of Green Gables Boxed Set (Anne of Green Gables #1-8),L.M. Montgomery,Anne of Green Gables: illustrated - first published in 1908 (1st. Page Classics),Lucy Maud Montgomery
+91,91,a1336,b1226,The Lies of Locke Lamora (Gentleman Bastard #1),Scott Lynch,The Spirit of Resistance (Jefferson's Road Book 1),Michael J. Scott
+92,92,a1369,b1544,Fifty Shades Darker (Fifty Shades #2),E.L. James,Fifty Shades Trilogy (Fifty Shades of Grey / Fifty Shades Darker / Fifty Shades Freed),E L James
+93,93,a1369,b1658,Fifty Shades Darker (Fifty Shades #2),E.L. James,Darker: Fifty Shades Darker as Told by Christian (Fifty Shades of Grey),E L James
+94,94,a137,b1444,Perfume: The Story of a Murderer,Patrick Süskind,The Five Dysfunctions of a Team: A Leadership Fable,Patrick Lencioni
+95,95,a139,b1751,The Return of the King (The Lord of the Rings #3),J.R.R. Tolkien,The Hobbit and the Lord of the Rings (the Hobbit / the Fellowship of the Ring / the Two Towers / the,J.R.R. Tolkien
+96,96,a1397,b1008,The World Is Flat: A Brief History of the Twenty-first Century,Thomas L. Friedman,The National Parks of the United States: A Photographic Journey,Andrew Thomas
+97,97,a1397,b1052,The World Is Flat: A Brief History of the Twenty-first Century,Thomas L. Friedman,Beyond Anger: A Guide for Men: How to Free Yourself from the Grip of Anger and Get More Out of Life,Thomas J. Harbin
+98,98,a1397,b149,The World Is Flat: A Brief History of the Twenty-first Century,Thomas L. Friedman,The Crusades: The Authoritative History of the War for the Holy Land,Thomas Asbridge
+99,99,a1397,b2753,The World Is Flat: A Brief History of the Twenty-first Century,Thomas L. Friedman,The Business of Being a Writer (Chicago Guides to Writing Editing and Publishing),Jane Friedman
+100,100,a1397,b360,The World Is Flat: A Brief History of the Twenty-first Century,Thomas L. Friedman,The Case of the Missing Call Girl: A Callie Ryden Mystery (Callie Ryden Mysteries Book 1),L. B. Love
+101,101,a14,b1747,Lord of the Flies,William Golding,Lord of the Flies,William Golding and 
+102,102,a140,b360,The Wonderful Wizard of Oz (Oz #1),L. Frank Baum,The Case of the Missing Call Girl: A Callie Ryden Mystery (Callie Ryden Mysteries Book 1),L. B. Love
+103,103,a1402,b2145,Out of My Mind,Sharon M. Draper,Out of My Mind,Sharon M. Draper
+104,104,a1406,b2980,The Last Battle (Chronicles of Narnia #7),C.S. Lewis,"The Lion, the Witch and the Wardrobe (The Chronicles of Narnia)", C. S. Lewis
+105,105,a1409,b1979,Into the Wild (Warriors #1),Erin Hunter,Warriors Box Set: Volumes 1 to 6: The Complete First Series (Warriors: The Prophecies Begin),Erin Hunter
+106,106,a1409,b2091,Into the Wild (Warriors #1),Erin Hunter,Warriors: The New Prophecy Box Set: Volumes 1 to 6: The Complete Second Series,Erin Hunter
+107,107,a142,b1851,Animal Farm / 1984,George Orwell,Animal Farm: 1984,George Orwell and 
+108,108,a1430,b2961,The Art of Success: What No One Ever Taught You (But You Still Need to Know),James Melouney,The Color of Water: A Black Man's Tribute to His White Mother,James McBride
+109,109,a1434,b2961,The Portrait of a Lady,Henry James,The Color of Water: A Black Man's Tribute to His White Mother,James McBride
+110,110,a1434,b306,The Portrait of a Lady,Henry James,The Range Bucket List: The Golf Adventure of a Lifetime,James Dodson
+111,111,a1434,b381,The Portrait of a Lady,Henry James,Going Home: A Novel of the Civil War,James D. Shipman
+112,112,a145,b1394,Love You Forever,Robert Munsch,Love You Forever,Robert Munsch and 
+113,113,a1454,b2750,Waiter to the Rich and Shameless: Confessions of a Five-Star Beverly Hills Server,Paul Hartford,The Vibrant Workplace: Overcoming the Obstacles to Building a Culture of Appreciation,Dr. Paul White and 
+114,114,a1454,b630,Waiter to the Rich and Shameless: Confessions of a Five-Star Beverly Hills Server,Paul Hartford,Book Publishing for Authors: How to Write Publish and Market Your Book to a #1 Bestseller in the Next 90 Days (Paul G. Brodie Publishing Series Book 2) (Volume 1),Paul Brodie
+115,115,a1458,b1630,A Dance with Dragons (A Song of Ice and Fire #5),George R.R. Martin,A Game of Thrones / A Clash of Kings / A Storm of Swords / A Feast of Crows / A Dance with Dragons,George R. R. Martin
+116,116,a1458,b2775,A Dance with Dragons (A Song of Ice and Fire #5),George R.R. Martin,Dawn and the Impossible Three (The Baby-sitters Club Graphic Novel #5): A Graphix Book (The Baby-Sitters Club Graphix),Ann M. Martin and 
+117,117,a1468,b2027,When Things Fall Apart: Heart Advice for Difficult Times,Pema Chödrön,When Things Fall Apart: Heart Advice for Difficult Times,Pema Chodron
+118,118,a1476,b1990,The Power of a Praying Woman,Stormie Omartian,The Power of a Praying® Wife,Stormie Omartian
+119,119,a1477,b612,Winter of the World (The Century Trilogy #2),Ken Follett,Fall of Giants: Book One of the Century Trilogy,Ken Follett
+120,120,a15,b1432,Harry Potter and the Deathly Hallows (Harry Potter #7),J.K. Rowling,Harry Potter and the Prisoner of Azkaban: The Illustrated Edition (Harry Potter Book 3),J.K. Rowling and 
+121,121,a15,b1477,Harry Potter and the Deathly Hallows (Harry Potter #7),J.K. Rowling,Harry Potter and the Chamber of Secrets: The Illustrated Edition (Harry Potter Book 2),J.K. Rowling and 
+122,122,a15,b1521,Harry Potter and the Deathly Hallows (Harry Potter #7),J.K. Rowling,Harry Potter and the Sorcerer's Stone,J.K. Rowling and 
+123,123,a15,b1679,Harry Potter and the Deathly Hallows (Harry Potter #7),J.K. Rowling,Harry Potter and the Sorcerer's Stone: The Illustrated Edition (Harry Potter Book 1),J.K. Rowling and 
+124,124,a15,b1779,Harry Potter and the Deathly Hallows (Harry Potter #7),J.K. Rowling,Harry Potter And The Chamber Of Secrets,J. K. Rowling and 
+125,125,a15,b1922,Harry Potter and the Deathly Hallows (Harry Potter #7),J.K. Rowling,Harry Potter And The Goblet Of Fire,J.K. Rowling and 
+126,126,a15,b1933,Harry Potter and the Deathly Hallows (Harry Potter #7),J.K. Rowling,Harry Potter and the Prisoner of Azkaban,J.K. Rowling and 
+127,127,a15,b2020,Harry Potter and the Deathly Hallows (Harry Potter #7),J.K. Rowling,Harry Potter And The Order Of The Phoenix,J.K. Rowling and 
+128,128,a15,b2981,Harry Potter and the Deathly Hallows (Harry Potter #7),J.K. Rowling,Harry Potter and the Deathly Hallows (Book 7),J. K. Rowling
+129,129,a15,b2997,Harry Potter and the Deathly Hallows (Harry Potter #7),J.K. Rowling,Harry Potter and the Half-Blood Prince (Book 6),J.K. Rowling
+130,130,a152,b1751,The Two Towers (The Lord of the Rings #2),J.R.R. Tolkien,The Hobbit and the Lord of the Rings (the Hobbit / the Fellowship of the Ring / the Two Towers / the,J.R.R. Tolkien
+131,131,a1529,b305,A Dog's Purpose (A Dog's Purpose #1),W. Bruce Cameron,A Dog's Purpose: A Novel for Humans,W. Bruce Cameron
+132,132,a1531,b360,What's Behind Your Belly Button? A Psychological Perspective of the Intelligence of Human Nature and Gut Instinct,Martha Char Love,The Case of the Missing Call Girl: A Callie Ryden Mystery (Callie Ryden Mysteries Book 1),L. B. Love
+133,133,a1556,b2481,Many Lives Many Masters: The True Story of a Prominent Psychiatrist His Young Patient and the Past Life Therapy That Changed Both Their Lives,Brian L. Weiss,God's Bestseller: William Tyndale Thomas More and the Writing of the English Bible---A Story of Martyrdom and Betrayal,Brian Moynahan
+134,134,a1556,b360,Many Lives Many Masters: The True Story of a Prominent Psychiatrist His Young Patient and the Past Life Therapy That Changed Both Their Lives,Brian L. Weiss,The Case of the Missing Call Girl: A Callie Ryden Mystery (Callie Ryden Mysteries Book 1),L. B. Love
+135,135,a1573,b2177,Little Town on the Prairie  (Little House #7),Laura Ingalls Wilder,The Little House (9 Volumes Set),Laura Ingalls Wilder and 
+136,136,a1579,b1414,One Fish Two Fish Red Fish Blue Fish,Dr. Seuss,Dr. Seuss's Beginner Book Collection (Cat in the Hat One Fish Two Fish Green Eggs and Ham Hop on Pop Fox in Socks),Seuss
+137,137,a1579,b1474,One Fish Two Fish Red Fish Blue Fish,Dr. Seuss,One Fish Two Fish Red Fish Blue Fish (I Can Read It All by Myself),Dr. Seuss and 
+138,138,a1599,b381,The Assiduous Quest of Tobias Hopkins: The Complete Novel,James Faro,Going Home: A Novel of the Civil War,James D. Shipman
+139,139,a1599,b794,The Assiduous Quest of Tobias Hopkins: The Complete Novel,James Faro,Queen Of The Silk Road: An Historical Fiction Novel,Ian James
+140,140,a16,b2252,The Kite Runner,Khaled Hosseini,The Kite Runner,Khaled Hosseini
+141,141,a1602,b1460,Go the Fuck to Sleep,Adam Mansbach,Go the F**k to Sleep,Adam Mansbach and 
+142,142,a1611,b2767,The Peacegiver: How Christ Offers to Heal Our Hearts and Homes,James L. Ferrell,The Common Core Mathematics Companion: The Standards Decoded High School: What They Say What They Mean How to Teach Them (Corwin Mathematics Series),Frederick L. Dillon and 
+143,143,a166,b1828,The Boy in the Striped Pajamas,John Boyne,The Boy in the Striped Pajamas,John Boyne
+144,144,a166,b700,The Boy in the Striped Pajamas,John Boyne,Stephen Curry: Rise of the Star. The inspiring and interesting life story from a struggling young boy to become the legend. Life of Stephen Curry - one of the best basketball shooters in history.,John Emerson
+145,145,a1667,b28,Fever 1793,Laurie Halse Anderson,Fever 1793,Laurie Halse Anderson
+146,146,a1679,b1015,Anne of Avonlea (Anne of Green Gables #2),L.M. Montgomery,Anne of Green Gables: illustrated - first published in 1908 (1st. Page Classics),Lucy Maud Montgomery
+147,147,a168,b2986,Mockingjay (The Hunger Games #3),Suzanne Collins,The Hunger Games,Suzanne Collins
+148,148,a1690,b939,The Life and Times of the Thunderbolt Kid,Bill Bryson,The Crazy Life of a Kid from Brooklyn: My Crazy Life in history with celebrities with travel & with business.,Bill Morgenstein
+149,149,a1693,b2400,The Shadow of the Torturer (The Book of the New Sun #1),Gene Wolfe,The Little Black Book of Human Resources Management,Barry Wolfe
+150,150,a17,b1403,The Giving Tree,Shel Silverstein,The Giving Tree,Shel Silverstein
+151,151,a1728,b1990,The Power of a Praying Parent,Stormie Omartian,The Power of a Praying® Wife,Stormie Omartian
+152,152,a1731,b32,The Lincoln Lawyer (Mickey Haller #1; Harry Bosch Universe #17),Michael Connelly,The Wrong Side of Goodbye (A Harry Bosch Novel),Michael Connelly
+153,153,a1731,b71,The Lincoln Lawyer (Mickey Haller #1; Harry Bosch Universe #17),Michael Connelly,The Black Box (Harry Bosch),Michael Connelly
+154,154,a1731,b844,The Lincoln Lawyer (Mickey Haller #1; Harry Bosch Universe #17),Michael Connelly,The Drop (A Harry Bosch Novel),Michael Connelly
+155,155,a1731,b914,The Lincoln Lawyer (Mickey Haller #1; Harry Bosch Universe #17),Michael Connelly,The Black Ice (Harry Bosch),Michael Connelly
+156,156,a1740,b1114,Coinman: An Untold Conspiracy,Pawan Mishra,Coinman: An Untold Conspiracy,Pawan Mishra
+157,157,a1744,b1990,The Power of Praying for Your Adult Children,Stormie Omartian,The Power of a Praying® Wife,Stormie Omartian
+158,158,a175,b1301,In Cold Blood,Truman Capote,In Cold Blood,Truman Capote
+159,159,a1762,b2550,Naked in Death (In Death #1),J.D. Robb,Echoes in Death: Chapter 1,J. D. Robb
+160,160,a1769,b1990,The Power of a Praying Husband,Stormie Omartian,The Power of a Praying® Wife,Stormie Omartian
+161,161,a1780,b48,The Touch: A Supernatural Story (The Touch #1),Robert Flynn III,The Girl in the Ice: A gripping serial killer thriller (Detective Erika Foster crime thriller novel) (Volume 1),Robert Bryndza
+162,162,a1782,b1535,The 4-Hour Workweek,Timothy Ferriss,The 4-Hour Workweek: Escape 9-5 Live Anywhere and Join the New Rich,Timothy Ferriss
+163,163,a1795,b2980,The Silver Chair (Chronicles of Narnia #4),C.S. Lewis,"The Lion, the Witch and the Wardrobe (The Chronicles of Narnia)", C. S. Lewis
+164,164,a1796,b2173,Smile,Raina Telgemeier,Smile,Raina Telgemeier
+165,165,a182,b1751,J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings,J.R.R. Tolkien,The Hobbit and the Lord of the Rings (the Hobbit / the Fellowship of the Ring / the Two Towers / the,J.R.R. Tolkien
+166,166,a1826,b1551,The Dark Tower Series Collection: The Gunslinger The Drawing of the Three The Waste Lands Wizard and Glass Wolves of the Calla Song of Susannah The Dark Tower,Stephen King,The Illustrated Brief History of Time Updated and Expanded Edition,Stephen William Hawking
+167,167,a1829,b1012,Catherine the Great: Portrait of a Woman,Robert K. Massie,The Million Dollar Decision: Get Out of the Rigged Game of Investing and Add a Million to Your Net Worth,Robert Rolih
+168,168,a183,b76,The Glass Castle,Jeannette Walls,The Glass Castle: A Memoir,Jeannette Walls
+169,169,a1846,b1463,Percy Jackson and the Olympians (Percy Jackson and the Olympians #1-3),Rick Riordan,Percy Jackson and the Olympians 5 Book Paperback Boxed Set (new covers w/poster) (Percy Jackson & the Olympians),Rick Riordan and 
+170,170,a1862,b2924,The Jewel in the Crown (The Raj Quartet #1),Paul Scott,Ender's Game (The Ender Quartet series Book 1),Orson Scott Card
+171,171,a1862,b630,The Jewel in the Crown (The Raj Quartet #1),Paul Scott,Book Publishing for Authors: How to Write Publish and Market Your Book to a #1 Bestseller in the Next 90 Days (Paul G. Brodie Publishing Series Book 2) (Volume 1),Paul Brodie
+172,172,a1864,b700,The Spy Who Came In from the Cold,John le Carré,Stephen Curry: Rise of the Star. The inspiring and interesting life story from a struggling young boy to become the legend. Life of Stephen Curry - one of the best basketball shooters in history.,John Emerson
+173,173,a1877,b1734,The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe Without Design,Richard Dawkins,The Color of Law: A Forgotten History of How Our Government Segregated America,Richard Rothstein
+174,174,a188,b1889,The Screwtape Letters,C.S. Lewis,The Screwtape Letters,C. S. Lewis
+175,175,a1885,b1015,Anne of the Island (Anne of Green Gables #3),L.M. Montgomery,Anne of Green Gables: illustrated - first published in 1908 (1st. Page Classics),Lucy Maud Montgomery
+176,176,a189,b1012,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,The Million Dollar Decision: Get Out of the Rigged Game of Investing and Add a Million to Your Net Worth,Robert Rolih
+177,177,a189,b2871,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,The Tony Award: A Complete Listing of Winners and Nominees with a History of the American Theatre Wing,Isabelle Stevenson and 
+178,178,a189,b583,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,Behave: The Biology of Humans at Our Best and Worst,Robert M. Sapolsky
+179,179,a1895,b1052,Hot Flat and Crowded: Why We Need a Green Revolution--and How It Can Renew America,Thomas L. Friedman,Beyond Anger: A Guide for Men: How to Free Yourself from the Grip of Anger and Get More Out of Life,Thomas J. Harbin
+180,180,a1896,b86,The Storyteller,Jodi Picoult,The Storyteller,Jodi Picoult
+181,181,a19,b1737,The Catcher in the Rye,J.D. Salinger,The Catcher in the Rye,J.D. Salinger
+182,182,a19,b2983,The Catcher in the Rye,J.D. Salinger,The Catcher in the Rye,J.D. Salinger
+183,183,a1938,b688,Let's Pretend This Never Happened: A Mostly True Memoir,Jenny  Lawson,Let's Pretend This Never Happened: A Mostly True Memoir,Jenny Lawson
+184,184,a1943,b200,The Mysterious Benedict Society and the Perilous Journey (The Mysterious Benedict Society #2),Trenton Lee Stewart,The Rock the Road and the Rabbi: My Journey into the Heart of Scriptural Faith and the Land Where It All Began,Kathie Lee Gifford and 
+185,185,a1961,b689,When Breath Becomes Air,Paul Kalanithi,When Breath Becomes Air,Paul Kalanithi and 
+186,186,a1972,b2019,The Complete Tales,Beatrix Potter,Beatrix Potter the Complete Tales (Peter Rabbit),Beatrix Potter
+187,187,a1983,b1233,Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live Love Parent and Lead,Brené Brown,The Gifts of Imperfection: Let Go of Who You Think You're Supposed to Be and Embrace Who You Are,Brené Brown
+188,188,a1983,b1383,Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live Love Parent and Lead,Brené Brown,Braving the Wilderness: The Quest for True Belonging and the Courage to Stand Alone,Brené Brown
+189,189,a1983,b1411,Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live Love Parent and Lead,Brené Brown,Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live Love Parent and Lead,Brené Brown
+190,190,a1983,b1703,Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live Love Parent and Lead,Brené Brown,Rising Strong: How the Ability to Reset Transforms the Way We Live Love Parent and Lead,Brené Brown
+191,191,a1983,b364,Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live Love Parent and Lead,Brené Brown,The Seven Money Types: Discover How God Wired You To Handle Money,Tommy Brown
+192,192,a1986,b168,Face of Our Father,G Egore Pitir,Face Of Our Father,G. Egore Pitir
+193,193,a1988,b1089,Marked (House of Night #1),P.C. Cast,House of Night Books 1-4 (Marked / Betrayed / Chosen / Untamed),P. C. Cast and 
+194,194,a1999,b1052,How to Think About the Great Ideas: From the Great Books of Western Civilization,Mortimer J. Adler,Beyond Anger: A Guide for Men: How to Free Yourself from the Grip of Anger and Get More Out of Life,Thomas J. Harbin
+195,195,a1999,b1189,How to Think About the Great Ideas: From the Great Books of Western Civilization,Mortimer J. Adler,Irena's Children: The Extraordinary Story of the Woman Who Saved 2500 Children from the Warsaw Ghetto,Tilar J. Mazzeo
+196,196,a1999,b2581,How to Think About the Great Ideas: From the Great Books of Western Civilization,Mortimer J. Adler,The One Year Book of Psalms: 365 Inspirational Readings From One of the Best-Loved Books of the Bible (Christian Perspective),William J Petersen and 
+197,197,a2,b1432,Harry Potter and the Sorcerer's Stone (Harry Potter #1),J.K. Rowling,Harry Potter and the Prisoner of Azkaban: The Illustrated Edition (Harry Potter Book 3),J.K. Rowling and 
+198,198,a2,b1477,Harry Potter and the Sorcerer's Stone (Harry Potter #1),J.K. Rowling,Harry Potter and the Chamber of Secrets: The Illustrated Edition (Harry Potter Book 2),J.K. Rowling and 
+199,199,a2,b1521,Harry Potter and the Sorcerer's Stone (Harry Potter #1),J.K. Rowling,Harry Potter and the Sorcerer's Stone,J.K. Rowling and 
+200,200,a2,b1679,Harry Potter and the Sorcerer's Stone (Harry Potter #1),J.K. Rowling,Harry Potter and the Sorcerer's Stone: The Illustrated Edition (Harry Potter Book 1),J.K. Rowling and 
+201,201,a2,b1779,Harry Potter and the Sorcerer's Stone (Harry Potter #1),J.K. Rowling,Harry Potter And The Chamber Of Secrets,J. K. Rowling and 
+202,202,a2,b1922,Harry Potter and the Sorcerer's Stone (Harry Potter #1),J.K. Rowling,Harry Potter And The Goblet Of Fire,J.K. Rowling and 
+203,203,a2,b1933,Harry Potter and the Sorcerer's Stone (Harry Potter #1),J.K. Rowling,Harry Potter and the Prisoner of Azkaban,J.K. Rowling and 
+204,204,a2,b2020,Harry Potter and the Sorcerer's Stone (Harry Potter #1),J.K. Rowling,Harry Potter And The Order Of The Phoenix,J.K. Rowling and 
+205,205,a2,b2981,Harry Potter and the Sorcerer's Stone (Harry Potter #1),J.K. Rowling,Harry Potter and the Deathly Hallows (Book 7),J. K. Rowling
+206,206,a2,b2997,Harry Potter and the Sorcerer's Stone (Harry Potter #1),J.K. Rowling,Harry Potter and the Half-Blood Prince (Book 6),J.K. Rowling
+207,207,a2010,b35,Ghost Soldiers: The Epic Account of World War II's Greatest Rescue Mission,Hampton Sides,Ghost Soldiers: The Epic Account of World War II's Greatest Rescue Mission,Hampton Sides
+208,208,a2018,b473,The Great Hunt (Wheel of Time #2),Robert Jordan,The Beauty of Horror 2: Ghouliana's Creepatorium: Another GOREgeous Coloring Book,Alan Robert
+209,209,a2038,b1199,A Swiftly Tilting Planet (A Wrinkle in Time Quintet #3),Madeleine L'Engle,A Wrinkle in Time Movie Tie-In Edition (A Wrinkle in Time Quintet),Madeleine L'Engle
+210,210,a2038,b1306,A Swiftly Tilting Planet (A Wrinkle in Time Quintet #3),Madeleine L'Engle,A Wrinkle in Time (Time Quintet),Madeleine L'Engle
+211,211,a2038,b1315,A Swiftly Tilting Planet (A Wrinkle in Time Quintet #3),Madeleine L'Engle,The Wrinkle in Time Quintet Boxed Set (A Wrinkle in Time A Wind in the Door A Swiftly Tilting Planet Many Waters An Acceptable Time),Madeleine L'Engle
+212,212,a2038,b1525,A Swiftly Tilting Planet (A Wrinkle in Time Quintet #3),Madeleine L'Engle,A Wrinkle in Time: The Graphic Novel,Madeleine L'Engle and 
+213,213,a2038,b1648,A Swiftly Tilting Planet (A Wrinkle in Time Quintet #3),Madeleine L'Engle,Wrinkle in Time / Wind in the Door / Swiftly Tiltling Planet,Madeleine L'Engle
+214,214,a2038,b1681,A Swiftly Tilting Planet (A Wrinkle in Time Quintet #3),Madeleine L'Engle,A Wind in the Door (A Wrinkle in Time Quintet),Madeleine L'Engle
+215,215,a2038,b1750,A Swiftly Tilting Planet (A Wrinkle in Time Quintet #3),Madeleine L'Engle,A Wrinkle in Time: 50th Anniversary Commemorative Edition (A Wrinkle in Time Quintet),Madeleine L'Engle
+216,216,a2038,b2144,A Swiftly Tilting Planet (A Wrinkle in Time Quintet #3),Madeleine L'Engle,A Swiftly Tilting Planet (A Wrinkle in Time Quintet),Madeleine L'Engle
+217,217,a2038,b2828,A Swiftly Tilting Planet (A Wrinkle in Time Quintet #3),Madeleine L'Engle,A Wrinkle in Time (A Wrinkle in Time Quintet Book 1),Madeleine L'Engle
+218,218,a2073,b1715,Influence: The Psychology of Persuasion,Robert B. Cialdini,Influence: The Psychology of Persuasion Revised Edition,Robert B. Cialdini
+219,219,a2087,b1632,The Forest of Hands and Teeth (The Forest of Hands and Teeth #1),Carrie Ryan,The Daily Stoic: 366 Meditations on Wisdom Perseverance and the Art of Living,Ryan Holiday and 
+220,220,a2087,b581,The Forest of Hands and Teeth (The Forest of Hands and Teeth #1),Carrie Ryan,Perennial Seller: The Art of Making and Marketing Work that Lasts,Ryan Holiday
+221,221,a21,b1414,Green Eggs and Ham,Dr. Seuss,Dr. Seuss's Beginner Book Collection (Cat in the Hat One Fish Two Fish Green Eggs and Ham Hop on Pop Fox in Socks),Seuss
+222,222,a21,b1418,Green Eggs and Ham,Dr. Seuss,Green Eggs and Ham,Dr. Seuss
+223,223,a211,b1647,The Tale of Peter Rabbit,Beatrix Potter,The Tale of Peter Rabbit Story Board Book,Beatrix Potter
+224,224,a211,b2019,The Tale of Peter Rabbit,Beatrix Potter,Beatrix Potter the Complete Tales (Peter Rabbit),Beatrix Potter
+225,225,a2116,b1932,Darwin's Dangerous Idea: Evolution and the Meanings of Life,Daniel C. Dennett,The 21 Irrefutable Laws of Leadership: Follow Them and People Will Follow You (10th Anniversary Edition),John C. Maxwell and 
+226,226,a2116,b2980,Darwin's Dangerous Idea: Evolution and the Meanings of Life,Daniel C. Dennett,"The Lion, the Witch and the Wardrobe (The Chronicles of Narnia)", C. S. Lewis
+227,227,a2116,b658,Darwin's Dangerous Idea: Evolution and the Meanings of Life,Daniel C. Dennett,To Heaven and Back: A Doctor's Extraordinary Account of Her Death Heaven Angels and Life Again: A True Story,Mary C. Neal
+228,228,a2122,b1544,Fifty Shades Freed (Fifty Shades #3),E.L. James,Fifty Shades Trilogy (Fifty Shades of Grey / Fifty Shades Darker / Fifty Shades Freed),E L James
+229,229,a2124,b1383,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,Daniel James Brown,Braving the Wilderness: The Quest for True Belonging and the Courage to Stand Alone,Brené Brown
+230,230,a2124,b2867,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,Daniel James Brown,My Name is Celia/Me llamo Celia: The Life of Celia Cruz/la vida de Celia Cruz (Americas Award for Children's and Young Adult Literature. Winner) (English Multilingual and Spanish Edition),Monica Brown and 
+231,231,a2124,b979,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,Daniel James Brown,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,Daniel James Brown
+232,232,a2135,b1945,The Truth of All that Is: The Angel book to Enlightenment and Personal Transformation,Amelia Bert,I Love You to the Moon and Back,Amelia Hepworth and 
+233,233,a2139,b2985,Alice's Adventures in Wonderland & Other Stories,Lewis Carroll,Alice's Adventures in Wonderland and Through the Looking-Glass,Lewis Carroll
+234,234,a2158,b1829,The Looming Tower: Al-Qaeda and the Road to 9/11,Lawrence Wright,The Looming Tower: Al-Qaeda and the Road to 9/11,Lawrence Wright
+235,235,a2172,b1453,The Maze of Bones  (The 39 Clues #1),Rick Riordan,The Trials of Apollo Book Three The Burning Maze,Rick Riordan
+236,236,a220,b2867,Bury My Heart at Wounded Knee: An Indian History of the American West,Dee Brown,My Name is Celia/Me llamo Celia: The Life of Celia Cruz/la vida de Celia Cruz (Americas Award for Children's and Young Adult Literature. Winner) (English Multilingual and Spanish Edition),Monica Brown and 
+237,237,a2210,b1309,LOG: The Legends of Genesis: Not Your Ordinary Heroes,Mark McCants,The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life,Mark Manson
+238,238,a2213,b378,Kiss the Girls (Alex Cross #2),James Patterson,The People vs. Alex Cross,James Patterson
+239,239,a223,b1782,The Essential Calvin and Hobbes: A Calvin and Hobbes Treasury,Bill Watterson,The Complete Calvin and Hobbes,Bill Watterson
+240,240,a2230,b302,Pawn of Prophecy (The Belgariad #1),David Eddings,Cabal of The Westford Knight: Templars at the Newport Tower (Book #1 in the Templars in America Series),David S. Brody
+241,241,a2232,b1595,The New Jim Crow: Mass Incarceration in the Age of Colorblindness,Michelle Alexander,The New Jim Crow:  Mass Incarceration in the Age of Colorblindness,Michelle Alexander and 
+242,242,a2232,b2427,The New Jim Crow: Mass Incarceration in the Age of Colorblindness,Michelle Alexander,100 Classic Rock Licks for Guitar: Learn 100 Rock Guitar Licks In The Style Of The World’s 20 Greatest Players (Guitar Licks in the Style of...),Joseph Alexander and 
+243,243,a2238,b1674,Between the World and Me,Ta-Nehisi Coates,Between the World and Me,Ta-Nehisi Coates
+244,244,a2240,b360,Battlefield Earth: A Saga of the Year 3000,L. Ron Hubbard,The Case of the Missing Call Girl: A Callie Ryden Mystery (Callie Ryden Mysteries Book 1),L. B. Love
+245,245,a2240,b463,Battlefield Earth: A Saga of the Year 3000,L. Ron Hubbard,The Darkest Night: Two Sisters a Brutal Murder and the Loss of Innocence in a Small Town,Ron Franscell
+246,246,a2240,b467,Battlefield Earth: A Saga of the Year 3000,L. Ron Hubbard,Workin' Our Way Home: The Incredible True Story of a Homeless Ex-Con and a Grieving Millionaire Thrown Together to Save Each Other,Ron Hall
+247,247,a225,b2079,Into the Wild,Jon Krakauer,Into the Wild,Jon Krakauer
+248,248,a226,b2993,The Ultimate Hitchhiker's Guide to the Galaxy,Douglas Adams,The Hitchhiker's Guide to the Galaxy,Douglas Adams
+249,249,a2260,b413,With Angel's Wings,Stephanie A. Collins,With Angel's Wings,Stephanie A. Collins and 
+250,250,a227,b1966,Their Eyes Were Watching God,Zora Neale Hurston,Their Eyes Were Watching God,Zora Neale Hurston
+251,251,a2270,b849,The Hate U Give,Angie Thomas,The Hate U Give,Angie Thomas
+252,252,a2276,b2185,In the Grip of Grace: You Can't Fall Beyond His Love,Max Lucado,Life 3.0: Being Human in the Age of Artificial Intelligence,Max Tegmark
+253,253,a2280,b2719,Prince of Thorns (The Broken Empire #1),Mark  Lawrence,Build a Rental Property Empire: The no-nonsense book on finding deals financing the right way and managing wisely. (InvestFourMore Investor Series 1),Mark Ferguson and 
+254,254,a2284,b1052,The Reason for God: Belief in an Age of Skepticism,Timothy J. Keller,Beyond Anger: A Guide for Men: How to Free Yourself from the Grip of Anger and Get More Out of Life,Thomas J. Harbin
+255,255,a2284,b1808,The Reason for God: Belief in an Age of Skepticism,Timothy J. Keller,The Meaning of Marriage: Facing the Complexities of Commitment with the Wisdom of God,Timothy Keller and 
+256,256,a2284,b2556,The Reason for God: Belief in an Age of Skepticism,Timothy J. Keller,Age of Myth: Book One of The Legends of the First Empire,Michael J. Sullivan
+257,257,a2292,b2993,The Hitchhiker's Guide to the Galaxy: A Trilogy in Four Parts,Douglas Adams,The Hitchhiker's Guide to the Galaxy,Douglas Adams
+258,258,a2297,b11,Proof of Heaven: A Neurosurgeon's Journey into the Afterlife,Eben Alexander,Proof of Heaven: A Neurosurgeon's Journey into the Afterlife,Eben Alexander
+259,259,a23,b171,Of Mice and Men,John Steinbeck,Tin Can Titans: The Heroic Men and Ships of World War II's Most Decorated Navy Destroyer Squadron,John Wukovits
+260,260,a23,b1838,Of Mice and Men,John Steinbeck,Of Mice and Men,John Steinbeck
+261,261,a2308,b360,The Legend of the Blue Eyes (Blue Eyes Trilogy #1),B. Kristin McMichael,The Case of the Missing Call Girl: A Callie Ryden Mystery (Callie Ryden Mysteries Book 1),L. B. Love
+262,262,a231,b2045,The Autobiography of Malcolm X,Malcolm X,The Autobiography of Malcolm X: As Told to Alex Haley,Malcolm X and 
+263,263,a2310,b1487,Simple Abundance:  A Daybook of Comfort and Joy,Sarah Ban Breathnach,A Court of Frost and Starlight (A Court of Thorns and Roses),Sarah J. Maas
+264,264,a2313,b1052,How to Read Literature Like a Professor,Thomas C. Foster,Beyond Anger: A Guide for Men: How to Free Yourself from the Grip of Anger and Get More Out of Life,Thomas J. Harbin
+265,265,a2313,b760,How to Read Literature Like a Professor,Thomas C. Foster,7 Lessons from Heaven: How Dying Taught Me to Live a Joy-Filled Life,Mary C. Neal M.D.
+266,266,a2328,b2462,Fear and Loathing in America: The Brutal Odyssey of an Outlaw Journalist 1968-1976,Hunter S. Thompson,Healing the Fractured Child: Diagnosis and Treatment of Youth With Dissociation,Frances S. Waters DCSW  LMSW  LMFT
+267,267,a2328,b2980,Fear and Loathing in America: The Brutal Odyssey of an Outlaw Journalist 1968-1976,Hunter S. Thompson,"The Lion, the Witch and the Wardrobe (The Chronicles of Narnia)", C. S. Lewis
+268,268,a2328,b302,Fear and Loathing in America: The Brutal Odyssey of an Outlaw Journalist 1968-1976,Hunter S. Thompson,Cabal of The Westford Knight: Templars at the Newport Tower (Book #1 in the Templars in America Series),David S. Brody
+269,269,a2328,b995,Fear and Loathing in America: The Brutal Odyssey of an Outlaw Journalist 1968-1976,Hunter S. Thompson,The Best Boring Book Ever of Select Healthcare Classification Systems and Databases,Katherine S. Rowell and 
+270,270,a233,b2200,The Complete Maus (Maus #1-2),Art Spiegelman,The Complete Maus,Art Spiegelman
+271,271,a2343,b2566,Fingerprints of the Gods: The Evidence of Earth's Lost Civilization,Graham Hancock,Magicians of the Gods: Updated and Expanded Edition - Sequel to the International Bestseller Fingerprints of the Gods,Graham Hancock
+272,272,a2377,b2647,Dreamer (Chronicles of Marithe #1),Patrick O'Scheen,Shadows of the Stone Benders (The Anlon Cully Chronicles) (Volume 1),K Patrick Donoghue
+273,273,a2387,b2750,THE DIARY OF A CANADIAN NOBODY,Arthur Paul James,The Vibrant Workplace: Overcoming the Obstacles to Building a Culture of Appreciation,Dr. Paul White and 
+274,274,a2387,b2961,THE DIARY OF A CANADIAN NOBODY,Arthur Paul James,The Color of Water: A Black Man's Tribute to His White Mother,James McBride
+275,275,a2387,b306,THE DIARY OF A CANADIAN NOBODY,Arthur Paul James,The Range Bucket List: The Golf Adventure of a Lifetime,James Dodson
+276,276,a2387,b381,THE DIARY OF A CANADIAN NOBODY,Arthur Paul James,Going Home: A Novel of the Civil War,James D. Shipman
+277,277,a239,b1836,A People's History of the United States,Howard Zinn,A People's History of the United States,Howard Zinn
+278,278,a241,b2310,The Story of My Life,Helen Keller,The Story of Our Lives: A Novel,Helen Warner
+279,279,a2410,b66,There are No Children Here: The Story of Two Boys Growing Up in the Other America,Alex Kotlowitz,The Longest Winter: The Battle of the Bulge and the Epic Story of WWII's Most Decorated Platoon,Alex Kershaw
+280,280,a2415,b2993,Life the Universe and Everything (Hitchhiker's Guide to the Galaxy #3),Douglas Adams,The Hitchhiker's Guide to the Galaxy,Douglas Adams
+281,281,a2416,b256,The Indian in the Cupboard (The Indian in the Cupboard #1),Lynne Reid Banks,The Indian in the Cupboard,Lynne Reid Banks
+282,282,a2421,b1782,The Calvin and Hobbes Tenth Anniversary Book,Bill Watterson,The Complete Calvin and Hobbes,Bill Watterson
+283,283,a2431,b1639,The Lost City of Z: A Tale of Deadly Obsession in the Amazon,David Grann,The Way of the Superior Man: A Spiritual Guide to Mastering the Challenges of Women Work and Sexual Desire (20th Anniversary Edition),David Deida
+284,284,a2431,b302,The Lost City of Z: A Tale of Deadly Obsession in the Amazon,David Grann,Cabal of The Westford Knight: Templars at the Newport Tower (Book #1 in the Templars in America Series),David S. Brody
+285,285,a2432,b1811,The Wisdom of Insecurity: A Message for an Age of Anxiety,Alan W. Watts,The Explosive Child: A New Approach for Understanding and Parenting Easily Frustrated Chronically Inflexible Children,Ross W. Greene PhD
+286,286,a2432,b743,The Wisdom of Insecurity: A Message for an Age of Anxiety,Alan W. Watts,The Impossible Rescue: The True Story of an Amazing Arctic Adventure,Martin W. Sandler
+287,287,a2457,b1271,Way to Be!: 9 Rules For Living the Good Life,Gordon B. Hinckley,The Energy Bus: 10 Rules to Fuel Your Life Work and Team with Positive Energy,Jon Gordon and 
+288,288,a2457,b1303,Way to Be!: 9 Rules For Living the Good Life,Gordon B. Hinckley,12 Rules for Life: An Antidote to Chaos,Jordan B. Peterson
+289,289,a2468,b80,The Melancholy Death of Oyster Boy and Other Stories,Tim Burton,"Fall from Grace: The Truth and Tragedy of ""Shoeless Joe"" Jackson",Tim Hornbaker
+290,290,a2469,b19,The Guardian,Nicholas Sparks,The Guardian,Nicholas Sparks
+291,291,a247,b2554,A Short History of Nearly Everything,Bill Bryson,A Short History of Nearly Everything,Bill Bryson
+292,292,a247,b939,A Short History of Nearly Everything,Bill Bryson,The Crazy Life of a Kid from Brooklyn: My Crazy Life in history with celebrities with travel & with business.,Bill Morgenstein
+293,293,a2474,b2772,The Wishing Spell (The Land of Stories #1),Chris Colfer,The Land of Stories: Worlds Collide,Chris Colfer
+294,294,a2474,b2773,The Wishing Spell (The Land of Stories #1),Chris Colfer,The Enchantress Returns (The Land of Stories),Chris Colfer and 
+295,295,a2482,b2179,The Spirit Catches You and You Fall Down: A Hmong Child Her American Doctors and the Collision of Two Cultures,Anne Fadiman,Anne Frank: The Diary of a Young Girl,Anne Frank and 
+296,296,a2482,b798,The Spirit Catches You and You Fall Down: A Hmong Child Her American Doctors and the Collision of Two Cultures,Anne Fadiman,The Whitechapel Conspiracy: A Charlotte and Thomas Pitt Novel,Anne Perry
+297,297,a2494,b1702,Earth (The Book): A Visitor's Guide to the Human Race,Jon Stewart,Martha's Flowers: A Practical Guide to Growing Gathering and Enjoying,Martha Stewart and 
+298,298,a25,b2985,Alice's Adventures in Wonderland & Through the Looking-Glass,Lewis Carroll,Alice's Adventures in Wonderland and Through the Looking-Glass,Lewis Carroll
+299,299,a250,b1463,The Lightning Thief (Percy Jackson and the Olympians #1),Rick Riordan,Percy Jackson and the Olympians 5 Book Paperback Boxed Set (new covers w/poster) (Percy Jackson & the Olympians),Rick Riordan and 
+300,300,a252,b2073,Things Fall Apart (The African Trilogy #1),Chinua Achebe,Things Fall Apart,Chinua Achebe
+301,301,a2525,b1630,A Storm of Swords: Blood and Gold (A Song of Ice and Fire #3: Part 2 of 2),George R.R. Martin,A Game of Thrones / A Clash of Kings / A Storm of Swords / A Feast of Crows / A Dance with Dragons,George R. R. Martin
+302,302,a2527,b1734,The Ancestor's Tale: A Pilgrimage to the Dawn of Evolution,Richard Dawkins,The Color of Law: A Forgotten History of How Our Government Segregated America,Richard Rothstein
+303,303,a2546,b1366,Killers of the Flower Moon: The Osage Murders and the Birth of the FBI,David Grann,Killers of the Flower Moon: The Osage Murders and the Birth of the FBI,David Grann
+304,304,a2546,b1639,Killers of the Flower Moon: The Osage Murders and the Birth of the FBI,David Grann,The Way of the Superior Man: A Spiritual Guide to Mastering the Challenges of Women Work and Sexual Desire (20th Anniversary Edition),David Deida
+305,305,a2546,b789,Killers of the Flower Moon: The Osage Murders and the Birth of the FBI,David Grann,Mountain Man: John Colter the Lewis & Clark Expedition and the Call of the American West (American Grit),David Weston Marshall
+306,306,a2551,b700,Harry Potter and the Cursed Child - Parts One and Two (Harry Potter #8),John Tiffany,Stephen Curry: Rise of the Star. The inspiring and interesting life story from a struggling young boy to become the legend. Life of Stephen Curry - one of the best basketball shooters in history.,John Emerson
+307,307,a2592,b1629,Eat to Live: The Revolutionary Formula for Fast and Sustained Weight Loss,Joel Fuhrman,Eat to Live Quick and Easy Cookbook: 131 Delicious Recipes for Fast and Sustained Weight Loss Reversing Disease and Lifelong Health,Dr. Joel Fuhrman
+308,308,a2592,b1650,Eat to Live: The Revolutionary Formula for Fast and Sustained Weight Loss,Joel Fuhrman,Eat to Live: The Amazing Nutrient-Rich Program for Fast and Sustained Weight Loss Revised Edition,Joel Fuhrman
+309,309,a26,b2986,The Hunger Games (The Hunger Games #1),Suzanne Collins,The Hunger Games,Suzanne Collins
+310,310,a260,b1226,Island of the Blue Dolphins (Island of the Blue Dolphins #1),Scott O'Dell,The Spirit of Resistance (Jefferson's Road Book 1),Michael J. Scott
+311,311,a2606,b2806,The Narrow Road to the Deep North,Richard Flanagan,The Narrow Road to the Deep North,Richard Flanagan
+312,312,a2642,b630,How to Find A Job: When There Are No Jobs A Necessary Job Search and Career Planning Guide for Today's Job Market (Find A Job Series),Paul Rega,Book Publishing for Authors: How to Write Publish and Market Your Book to a #1 Bestseller in the Next 90 Days (Paul G. Brodie Publishing Series Book 2) (Volume 1),Paul Brodie
+313,313,a268,b1307,A Brief History of Time,Stephen Hawking,A Brief History of Time,Stephen Hawking
+314,314,a268,b1551,A Brief History of Time,Stephen Hawking,The Illustrated Brief History of Time Updated and Expanded Edition,Stephen William Hawking
+315,315,a268,b963,A Brief History of Time,Stephen Hawking,Stephen Curry: Never Give Up. A Boy Who Became a Star. Inspiring Children Book About One of the Best Basketball Players in History.,Stephen Herman
+316,316,a27,b1432,Harry Potter and the Prisoner of Azkaban (Harry Potter #3),J.K. Rowling,Harry Potter and the Prisoner of Azkaban: The Illustrated Edition (Harry Potter Book 3),J.K. Rowling and 
+317,317,a27,b1477,Harry Potter and the Prisoner of Azkaban (Harry Potter #3),J.K. Rowling,Harry Potter and the Chamber of Secrets: The Illustrated Edition (Harry Potter Book 2),J.K. Rowling and 
+318,318,a27,b1521,Harry Potter and the Prisoner of Azkaban (Harry Potter #3),J.K. Rowling,Harry Potter and the Sorcerer's Stone,J.K. Rowling and 
+319,319,a27,b1679,Harry Potter and the Prisoner of Azkaban (Harry Potter #3),J.K. Rowling,Harry Potter and the Sorcerer's Stone: The Illustrated Edition (Harry Potter Book 1),J.K. Rowling and 
+320,320,a27,b1779,Harry Potter and the Prisoner of Azkaban (Harry Potter #3),J.K. Rowling,Harry Potter And The Chamber Of Secrets,J. K. Rowling and 
+321,321,a27,b1922,Harry Potter and the Prisoner of Azkaban (Harry Potter #3),J.K. Rowling,Harry Potter And The Goblet Of Fire,J.K. Rowling and 
+322,322,a27,b1933,Harry Potter and the Prisoner of Azkaban (Harry Potter #3),J.K. Rowling,Harry Potter and the Prisoner of Azkaban,J.K. Rowling and 
+323,323,a27,b2020,Harry Potter and the Prisoner of Azkaban (Harry Potter #3),J.K. Rowling,Harry Potter And The Order Of The Phoenix,J.K. Rowling and 
+324,324,a27,b2981,Harry Potter and the Prisoner of Azkaban (Harry Potter #3),J.K. Rowling,Harry Potter and the Deathly Hallows (Book 7),J. K. Rowling
+325,325,a27,b2997,Harry Potter and the Prisoner of Azkaban (Harry Potter #3),J.K. Rowling,Harry Potter and the Half-Blood Prince (Book 6),J.K. Rowling
+326,326,a2703,b1226,Poseidon’s Children (The Legacy of the Gods #1),Michael  West,The Spirit of Resistance (Jefferson's Road Book 1),Michael J. Scott
+327,327,a2714,b495,Eye of the Needle,Ken Follett,La isla de las tormentas / Eye of the Needle (Best Seller) (Spanish Edition),Ken Follett
+328,328,a2742,b302,The Song of the Dodo: Island Biogeography in an Age of Extinctions,David Quammen,Cabal of The Westford Knight: Templars at the Newport Tower (Book #1 in the Templars in America Series),David S. Brody
+329,329,a276,b2060,Horton Hears a Who!,Dr. Seuss,Horton Hears a Who!,Dr. Seuss
+330,330,a2767,b1423,The 48 Laws of Power,Robert Greene,The 48 Laws of Power,Robert Greene
+331,331,a278,b1367,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey
+332,332,a278,b1825,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,The 7 Habits of Highly Effective Teens,Sean Covey
+333,333,a278,b963,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,Stephen Curry: Never Give Up. A Boy Who Became a Star. Inspiring Children Book About One of the Best Basketball Players in History.,Stephen Herman
+334,334,a28,b2987,Wuthering Heights,Emily Brontë,Wuthering Heights,Emily Bronte
+335,335,a284,b1244,How to Win Friends and Influence People,Dale Carnegie,How to Win Friends & Influence People,Dale Carnegie
+336,336,a2858,b2179,The Face of a Stranger (William Monk #1),Anne Perry,Anne Frank: The Diary of a Young Girl,Anne Frank and 
+337,337,a2862,b1597,Nine Princes in Amber (The Chronicles of Amber #1),Roger Zelazny,"Men in Blazers Present Encyclopedia Blazertannica: A Suboptimal Guide to Soccer America's ""Sport of the Future"" Since 1972",Roger Bennett and 
+338,338,a2878,b1598,Lean In: Women Work and the Will to Lead,Sheryl Sandberg,Lean In: Women Work and the Will to Lead,Sheryl Sandberg
+339,339,a2881,b1635,Successful Freelancing and Outsourcing: A Guide to Make Money Online and Increase Business Profit,Maria Johnsen,Keto: The Complete Guide to Success on The Ketogenic Diet including Simplified Science and No-cook Meal Plans,Maria Emmerich and 
+340,340,a29,b2988,Gone with the Wind,Margaret Mitchell,Gone with the Wind,Margaret Mitchell
+341,341,a2902,b2494,Six of Crows (Six of Crows #1),Leigh Bardugo,Six of Crows,Leigh Bardugo
+342,342,a2904,b1315,The Time Quartet Box Set (Time Quartet #1-4),Madeleine L'Engle,The Wrinkle in Time Quintet Boxed Set (A Wrinkle in Time A Wind in the Door A Swiftly Tilting Planet Many Waters An Acceptable Time),Madeleine L'Engle
+343,343,a2915,b2059,The Husband's Secret,Liane Moriarty,The Husband's Secret,Liane Moriarty
+344,344,a2931,b1,Cradle to Cradle: Remaking the Way We Make Things,William McDonough,Make Your Bed: Little Things That Can Change Your Life...And Maybe the World,William H. McRaven
+345,345,a2948,b1988,The China Study: The Most Comprehensive Study of Nutrition Ever Conducted and the Startling Implications for Diet Weight Loss and Long-term Health,T. Colin Campbell,The China Study: Revised and Expanded Edition: The Most Comprehensive Study of Nutrition Ever Conducted and the Startling Implications for Diet Weight Loss and Long-Term Health,T. Colin Campbell and 
+346,346,a2951,b2593,It Ends with Us,Colleen Hoover,It Ends with Us: A Novel,Colleen Hoover
+347,347,a2982,b1673,The Case for a Creator: A Journalist Investigates Scientific Evidence That Points Toward God,Lee Strobel,The Case for Christ: A Journalist's Personal Investigation of the Evidence for Jesus (Case for ... Series),Lee Strobel
+348,348,a2983,b1462,Being Mortal: Medicine and What Matters in the End,Atul Gawande,Being Mortal: Medicine and What Matters in the End,Atul Gawande
+349,349,a300,b1012,Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values,Robert M. Pirsig,The Million Dollar Decision: Get Out of the Rigged Game of Investing and Add a Million to Your Net Worth,Robert Rolih
+350,350,a300,b583,Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values,Robert M. Pirsig,Behave: The Biology of Humans at Our Best and Worst,Robert M. Sapolsky
+351,351,a303,b2177,Little House in the Big Woods (Little House #1),Laura Ingalls Wilder,The Little House (9 Volumes Set),Laura Ingalls Wilder and 
+352,352,a304,b1969,The Elements of Style,William Strunk Jr.,The Elements of Style Fourth Edition,William Strunk Jr. and 
+353,353,a31,b2989,Tolkien on Fairy-stories,J.R.R. Tolkien,Tolkien on Fairy-Stories,J.R.R. Tolkien
+354,354,a312,b2647,The Name of the Wind (The Kingkiller Chronicle #1),Patrick Rothfuss,Shadows of the Stone Benders (The Anlon Cully Chronicles) (Volume 1),K Patrick Donoghue
+355,355,a315,b939,A Walk in the Woods,Bill Bryson,The Crazy Life of a Kid from Brooklyn: My Crazy Life in history with celebrities with travel & with business.,Bill Morgenstein
+356,356,a32,b1402,Fahrenheit 451,Ray Bradbury,Fahrenheit 451,Ray Bradbury
+357,357,a331,b1782,Calvin and Hobbes,Bill Watterson,The Complete Calvin and Hobbes,Bill Watterson
+358,358,a334,b1869,Who Moved My Cheese?,Spencer Johnson,Who Moved My Cheese?: An Amazing Way to Deal with Change in Your Work and in Your Life,Spencer Johnson and 
+359,359,a336,b2909,The Cider House Rules,John Irving,The Cider House Rules: A Novel (Modern Library (Hardcover)),John Irving
+360,360,a34,b2991,The Picture of Dorian Gray,Oscar Wilde,The Picture of Dorian Gray (Dover Thrift Editions),Oscar Wilde
+361,361,a341,b350,Thirteen Reasons Why,Jay Asher,Thirteen Reasons Why,Jay Asher
+362,362,a35,b1432,Harry Potter and the Goblet of Fire (Harry Potter #4),J.K. Rowling,Harry Potter and the Prisoner of Azkaban: The Illustrated Edition (Harry Potter Book 3),J.K. Rowling and 
+363,363,a35,b1477,Harry Potter and the Goblet of Fire (Harry Potter #4),J.K. Rowling,Harry Potter and the Chamber of Secrets: The Illustrated Edition (Harry Potter Book 2),J.K. Rowling and 
+364,364,a35,b1521,Harry Potter and the Goblet of Fire (Harry Potter #4),J.K. Rowling,Harry Potter and the Sorcerer's Stone,J.K. Rowling and 
+365,365,a35,b1679,Harry Potter and the Goblet of Fire (Harry Potter #4),J.K. Rowling,Harry Potter and the Sorcerer's Stone: The Illustrated Edition (Harry Potter Book 1),J.K. Rowling and 
+366,366,a35,b1779,Harry Potter and the Goblet of Fire (Harry Potter #4),J.K. Rowling,Harry Potter And The Chamber Of Secrets,J. K. Rowling and 
+367,367,a35,b1922,Harry Potter and the Goblet of Fire (Harry Potter #4),J.K. Rowling,Harry Potter And The Goblet Of Fire,J.K. Rowling and 
+368,368,a35,b1933,Harry Potter and the Goblet of Fire (Harry Potter #4),J.K. Rowling,Harry Potter and the Prisoner of Azkaban,J.K. Rowling and 
+369,369,a35,b2020,Harry Potter and the Goblet of Fire (Harry Potter #4),J.K. Rowling,Harry Potter And The Order Of The Phoenix,J.K. Rowling and 
+370,370,a35,b2981,Harry Potter and the Goblet of Fire (Harry Potter #4),J.K. Rowling,Harry Potter and the Deathly Hallows (Book 7),J. K. Rowling
+371,371,a35,b2997,Harry Potter and the Goblet of Fire (Harry Potter #4),J.K. Rowling,Harry Potter and the Half-Blood Prince (Book 6),J.K. Rowling
+372,372,a352,b2932,It,Stephen King,It,Stephen King
+373,373,a359,b1852,Hatchet,Gary Paulsen,Hatchet,Gary Paulsen
+374,374,a36,b2702,The Adventures of Huckleberry Finn,Mark Twain,All That Ails You: The Adventures of a Canine Caregiver,Mark J. Asher
+375,375,a36,b2992,The Adventures of Huckleberry Finn,Mark Twain,The Adventures of Huckleberry Finn (Bantam Classic), Mark Twain
+376,376,a37,b2993,The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy #1),Douglas Adams,The Hitchhiker's Guide to the Galaxy,Douglas Adams
+377,377,a370,b1432,Harry Potter and the Order of the Phoenix (Harry Potter #5),J.K. Rowling,Harry Potter and the Prisoner of Azkaban: The Illustrated Edition (Harry Potter Book 3),J.K. Rowling and 
+378,378,a370,b1477,Harry Potter and the Order of the Phoenix (Harry Potter #5),J.K. Rowling,Harry Potter and the Chamber of Secrets: The Illustrated Edition (Harry Potter Book 2),J.K. Rowling and 
+379,379,a370,b1521,Harry Potter and the Order of the Phoenix (Harry Potter #5),J.K. Rowling,Harry Potter and the Sorcerer's Stone,J.K. Rowling and 
+380,380,a370,b1679,Harry Potter and the Order of the Phoenix (Harry Potter #5),J.K. Rowling,Harry Potter and the Sorcerer's Stone: The Illustrated Edition (Harry Potter Book 1),J.K. Rowling and 
+381,381,a370,b1779,Harry Potter and the Order of the Phoenix (Harry Potter #5),J.K. Rowling,Harry Potter And The Chamber Of Secrets,J. K. Rowling and 
+382,382,a370,b1922,Harry Potter and the Order of the Phoenix (Harry Potter #5),J.K. Rowling,Harry Potter And The Goblet Of Fire,J.K. Rowling and 
+383,383,a370,b1933,Harry Potter and the Order of the Phoenix (Harry Potter #5),J.K. Rowling,Harry Potter and the Prisoner of Azkaban,J.K. Rowling and 
+384,384,a370,b2020,Harry Potter and the Order of the Phoenix (Harry Potter #5),J.K. Rowling,Harry Potter And The Order Of The Phoenix,J.K. Rowling and 
+385,385,a370,b2981,Harry Potter and the Order of the Phoenix (Harry Potter #5),J.K. Rowling,Harry Potter and the Deathly Hallows (Book 7),J. K. Rowling
+386,386,a370,b2997,Harry Potter and the Order of the Phoenix (Harry Potter #5),J.K. Rowling,Harry Potter and the Half-Blood Prince (Book 6),J.K. Rowling
+387,387,a380,b2177,Little House on the Prairie (Little House #2),Laura Ingalls Wilder,The Little House (9 Volumes Set),Laura Ingalls Wilder and 
+388,388,a39,b2995,Les Misrables,Victor Hugo,Les Misrables,Victor Hugo
+389,389,a390,b1348,The Four Agreements: A Practical Guide to Personal Freedom,Miguel Ruiz,The Four Agreements: A Practical Guide to Personal Freedom (A Toltec Wisdom Book),Don Miguel Ruiz
+390,390,a390,b833,The Four Agreements: A Practical Guide to Personal Freedom,Miguel Ruiz,The Mastery of Love: A Practical Guide to the Art of Relationship: A Toltec Wisdom Book,Don Miguel Ruiz and 
+391,391,a393,b160,Freakonomics: A Rogue Economist Explores the Hidden Side of Everything (Freakonomics #1),Steven D. Levitt,The Diagnosis is Murder (A Dr. Valorian Mystery Book 1),Steven Gossington
+392,392,a393,b1798,Freakonomics: A Rogue Economist Explores the Hidden Side of Everything (Freakonomics #1),Steven D. Levitt,The Skeptics' Guide to the Universe: How to Know What's Really Real in a World Increasingly Full of Fake,Steven Novella and 
+393,393,a393,b381,Freakonomics: A Rogue Economist Explores the Hidden Side of Everything (Freakonomics #1),Steven D. Levitt,Going Home: A Novel of the Civil War,James D. Shipman
+394,394,a398,b455,The Art of Happiness,Dalai Lama XIV,The Book of Joy: Lasting Happiness in a Changing World,Dalai Lama and 
+395,395,a4,b2977,Pride and Prejudice,Jane Austen,Pride and Prejudice,Jane Austen
+396,396,a40,b1860,Brave New World / Brave New World Revisited,Aldous Huxley,Brave New World,Aldous Huxley
+397,397,a400,b2980,The Voyage of the Dawn Treader (Chronicles of Narnia #3),C.S. Lewis,"The Lion, the Witch and the Wardrobe (The Chronicles of Narnia)", C. S. Lewis
+398,398,a402,b1955,The Immortal Life of Henrietta Lacks,Rebecca Skloot,The Immortal Life of Henrietta Lacks,Rebecca Skloot
+399,399,a408,b2956,The Remains of the Day,Kazuo Ishiguro,The Remains of the Day (Vintage International),Kazuo Ishiguro
+400,400,a409,b2088,Pippi Longstocking,Astrid Lindgren,Pippi Longstocking,Astrid Lindgren and 
+401,401,a41,b1360,The Alchemist,Paulo Coelho,The Alchemist,Paulo Coelho
+402,402,a410,b700,Marley and Me: Life and Love With the World's Worst Dog,John Grogan,Stephen Curry: Rise of the Star. The inspiring and interesting life story from a struggling young boy to become the legend. Life of Stephen Curry - one of the best basketball shooters in history.,John Emerson
+403,403,a415,b2980,The Magician's Nephew (Chronicles of Narnia #6),C.S. Lewis,"The Lion, the Witch and the Wardrobe (The Chronicles of Narnia)", C. S. Lewis
+404,404,a42,b2996,Crime and Punishment,Fyodor Dostoyevsky,Crime and Punishment,Fyodor Dostoyevsky
+405,405,a421,b1785,The Purpose Driven Life: What on Earth Am I Here for?,Rick Warren,The Purpose Driven Life: What on Earth Am I Here For?,Rick Warren
+406,406,a428,b848,Wonder,R.J. Palacio,Wonder,R. J. Palacio
+407,407,a43,b1432,Harry Potter and the Half-Blood Prince (Harry Potter #6),J.K. Rowling,Harry Potter and the Prisoner of Azkaban: The Illustrated Edition (Harry Potter Book 3),J.K. Rowling and 
+408,408,a43,b1477,Harry Potter and the Half-Blood Prince (Harry Potter #6),J.K. Rowling,Harry Potter and the Chamber of Secrets: The Illustrated Edition (Harry Potter Book 2),J.K. Rowling and 
+409,409,a43,b1521,Harry Potter and the Half-Blood Prince (Harry Potter #6),J.K. Rowling,Harry Potter and the Sorcerer's Stone,J.K. Rowling and 
+410,410,a43,b1679,Harry Potter and the Half-Blood Prince (Harry Potter #6),J.K. Rowling,Harry Potter and the Sorcerer's Stone: The Illustrated Edition (Harry Potter Book 1),J.K. Rowling and 
+411,411,a43,b1779,Harry Potter and the Half-Blood Prince (Harry Potter #6),J.K. Rowling,Harry Potter And The Chamber Of Secrets,J. K. Rowling and 
+412,412,a43,b1922,Harry Potter and the Half-Blood Prince (Harry Potter #6),J.K. Rowling,Harry Potter And The Goblet Of Fire,J.K. Rowling and 
+413,413,a43,b1933,Harry Potter and the Half-Blood Prince (Harry Potter #6),J.K. Rowling,Harry Potter and the Prisoner of Azkaban,J.K. Rowling and 
+414,414,a43,b2020,Harry Potter and the Half-Blood Prince (Harry Potter #6),J.K. Rowling,Harry Potter And The Order Of The Phoenix,J.K. Rowling and 
+415,415,a43,b2981,Harry Potter and the Half-Blood Prince (Harry Potter #6),J.K. Rowling,Harry Potter and the Deathly Hallows (Book 7),J. K. Rowling
+416,416,a43,b2997,Harry Potter and the Half-Blood Prince (Harry Potter #6),J.K. Rowling,Harry Potter and the Half-Blood Prince (Book 6),J.K. Rowling
+417,417,a433,b118,A Portrait of the Artist as a Young Man,James Joyce,The Man Without a Shadow: A Novel,Joyce Carol Oates
+418,418,a433,b2961,A Portrait of the Artist as a Young Man,James Joyce,The Color of Water: A Black Man's Tribute to His White Mother,James McBride
+419,419,a433,b306,A Portrait of the Artist as a Young Man,James Joyce,The Range Bucket List: The Golf Adventure of a Lifetime,James Dodson
+420,420,a433,b381,A Portrait of the Artist as a Young Man,James Joyce,Going Home: A Novel of the Civil War,James D. Shipman
+421,421,a434,b2967,The Omnivore's Dilemma: A Natural History of Four Meals,Michael Pollan,The Omnivore's Dilemma: A Natural History of Four Meals,Michael Pollan
+422,422,a434,b32,The Omnivore's Dilemma: A Natural History of Four Meals,Michael Pollan,The Wrong Side of Goodbye (A Harry Bosch Novel),Michael Connelly
+423,423,a44,b2998,The Secret Garden,Frances Hodgson Burnett,The Secret Garden (HarperClassics),Frances Hodgson Burnett
+424,424,a442,b1546,Ishmael: An Adventure of the Mind and Spirit,Daniel Quinn,No-Drama Discipline: The Whole-Brain Way to Calm the Chaos and Nurture Your Child's Developing Mind,Daniel J. Siegel and 
+425,425,a446,b2958,The Stinky Cheese Man and Other Fairly Stupid Tales,Jon Scieszka,The Stinky Cheese Man and Other Fairly Stupid Tales,Jon Scieszka and 
+426,426,a449,b2986,The Hunger Games Trilogy Boxset (The Hunger Games #1-3),Suzanne Collins,The Hunger Games,Suzanne Collins
+427,427,a45,b2999,Memoirs of a Geisha,Arthur Golden,Memoirs of a Geisha: A Novel,Arthur Golden
+428,428,a46,b2980,The Lion the Witch and the Wardrobe (Chronicles of Narnia #1),C.S. Lewis,"The Lion, the Witch and the Wardrobe (The Chronicles of Narnia)", C. S. Lewis
+429,429,a462,b1865,The Devil in the White City: Murder Magic and Madness at the Fair That Changed America,Erik Larson,The Devil in the White City: Murder Magic and Madness at the Fair That Changed America,Erik Larson
+430,430,a47,b1414,The Cat in the Hat,Dr. Seuss,Dr. Seuss's Beginner Book Collection (Cat in the Hat One Fish Two Fish Green Eggs and Ham Hop on Pop Fox in Socks),Seuss
+431,431,a47,b1518,The Cat in the Hat,Dr. Seuss,The Cat in the Hat,Dr. Seuss
+432,432,a470,b1406,The Rise and Fall of the Third Reich: A History of Nazi Germany,William L. Shirer,Medical Medium Life-Changing Foods: Save Yourself and the Ones You Love with the Hidden Healing Powers of Fruits & Vegetables,Anthony William
+433,433,a470,b1551,The Rise and Fall of the Third Reich: A History of Nazi Germany,William L. Shirer,The Illustrated Brief History of Time Updated and Expanded Edition,Stephen William Hawking
+434,434,a470,b1603,The Rise and Fall of the Third Reich: A History of Nazi Germany,William L. Shirer,The Self-Driven Child: The Science and Sense of Giving Your Kids More Control Over Their Lives,William Stixrud PhD and 
+435,435,a470,b229,The Rise and Fall of the Third Reich: A History of Nazi Germany,William L. Shirer,The New York Times Book of the Dead: 320 Print and 10000 Digital Obituaries of Extraordinary People,William McDonald
+436,436,a470,b360,The Rise and Fall of the Third Reich: A History of Nazi Germany,William L. Shirer,The Case of the Missing Call Girl: A Callie Ryden Mystery (Callie Ryden Mysteries Book 1),L. B. Love
+437,437,a473,b1191,The 5 Love Languages: The Secret to Love that Lasts,Gary Chapman,The 5 Love Languages: The Secret to Love that Lasts,Gary Chapman
+438,438,a473,b1652,The 5 Love Languages: The Secret to Love that Lasts,Gary Chapman,The 5 Love Languages of Children: The Secret to Loving Children Effectively,Gary D. Chapman and 
+439,439,a475,b1734,Illusions: The Adventures of a Reluctant Messiah,Richard Bach,The Color of Law: A Forgotten History of How Our Government Segregated America,Richard Rothstein
+440,440,a48,b3000,The Help,Kathryn Stockett,The Help,Kathryn Stockett
+441,441,a480,b2439,My Side of the Mountain (Mountain #1),Jean Craighead George,The Mountain Men: The Dramatic History And Lore Of The First Frontiersmen,George Laycock
+442,442,a480,b2938,My Side of the Mountain (Mountain #1),Jean Craighead George,My Side of the Mountain Trilogy (My Side of the Mountain / On the Far Side of the Mountain / Frightful's Mountain),Jean Craighead George
+443,443,a483,b1434,Guess How Much I Love You,Sam McBratney,Guess How Much I Love You,Sam McBratney and 
+444,444,a487,b2038,Alexander and the Terrible Horrible No Good Very Bad Day,Judith Viorst,Alexander and the Terrible Horrible No Good Very Bad Day,Judith Viorst and 
+445,445,a493,b1662,Outliers: The Story of Success,Malcolm Gladwell,Outliers: The Story of Success,Malcolm Gladwell
+446,446,a5,b2179,The Diary of a Young Girl,Anne Frank,Anne Frank: The Diary of a Young Girl,Anne Frank and 
+447,447,a503,b1630,A Clash of Kings  (A Song of Ice and Fire #2),George R.R. Martin,A Game of Thrones / A Clash of Kings / A Storm of Swords / A Feast of Crows / A Dance with Dragons,George R. R. Martin
+448,448,a505,b1422,The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle
+449,449,a507,b2955,The Brief Wondrous Life of Oscar Wao,Junot Díaz,The Brief Wondrous Life of Oscar Wao,Junot Díaz
+450,450,a509,b1693,I Have a Dream: Writings and Speeches That Changed the World,Martin Luther King Jr.,Radical Inclusion: What the Post-9/11 World Should Have Taught Us About Leadership,Martin Dempsey and 
+451,451,a509,b2775,I Have a Dream: Writings and Speeches That Changed the World,Martin Luther King Jr.,Dawn and the Impossible Three (The Baby-sitters Club Graphic Novel #5): A Graphix Book (The Baby-Sitters Club Graphix),Ann M. Martin and 
+452,452,a51,b2974,The Color Purple,Alice Walker,The Color Purple,Alice Walker
+453,453,a515,b171,Midnight in the Garden of Good and Evil,John Berendt,Tin Can Titans: The Heroic Men and Ships of World War II's Most Decorated Navy Destroyer Squadron,John Wukovits
+454,454,a515,b1932,Midnight in the Garden of Good and Evil,John Berendt,The 21 Irrefutable Laws of Leadership: Follow Them and People Will Follow You (10th Anniversary Edition),John C. Maxwell and 
+455,455,a515,b700,Midnight in the Garden of Good and Evil,John Berendt,Stephen Curry: Rise of the Star. The inspiring and interesting life story from a struggling young boy to become the legend. Life of Stephen Curry - one of the best basketball shooters in history.,John Emerson
+456,456,a518,b1226,The Road Less Traveled: A New Psychology of Love Traditional Values and Spiritual Growth,M. Scott Peck,The Spirit of Resistance (Jefferson's Road Book 1),Michael J. Scott
+457,457,a518,b1885,The Road Less Traveled: A New Psychology of Love Traditional Values and Spiritual Growth,M. Scott Peck,The Goal: A Process of Ongoing Improvement,Eliyahu M. Goldratt and 
+458,458,a518,b1941,The Road Less Traveled: A New Psychology of Love Traditional Values and Spiritual Growth,M. Scott Peck,The Fourth Cup: Unveiling the Mystery of the Last Supper and the Cross,Scott Hahn
+459,459,a518,b2201,The Road Less Traveled: A New Psychology of Love Traditional Values and Spiritual Growth,M. Scott Peck,The Four: The Hidden DNA of Amazon Apple Facebook and Google,Scott Galloway
+460,460,a518,b2775,The Road Less Traveled: A New Psychology of Love Traditional Values and Spiritual Growth,M. Scott Peck,Dawn and the Impossible Three (The Baby-sitters Club Graphic Novel #5): A Graphix Book (The Baby-Sitters Club Graphix),Ann M. Martin and 
+461,461,a518,b583,The Road Less Traveled: A New Psychology of Love Traditional Values and Spiritual Growth,M. Scott Peck,Behave: The Biology of Humans at Our Best and Worst,Robert M. Sapolsky
+462,462,a52,b1819,The Outsiders,S.E. Hinton,The Outsiders,S. E. Hinton
+463,463,a531,b2980,Prince Caspian (Chronicles of Narnia #2),C.S. Lewis,"The Lion, the Witch and the Wardrobe (The Chronicles of Narnia)", C. S. Lewis
+464,464,a533,b1630,A Storm of Swords (A Song of Ice and Fire #3),George R.R. Martin,A Game of Thrones / A Clash of Kings / A Storm of Swords / A Feast of Crows / A Dance with Dragons,George R. R. Martin
+465,465,a534,b2170,On Writing: A Memoir of the Craft,Stephen King,On Writing: 10th Anniversary Edition: A Memoir of the Craft,Stephen King
+466,466,a534,b2430,On Writing: A Memoir of the Craft,Stephen King,The Perks of Being a Wallflower,Stephen Chbosky
+467,467,a534,b963,On Writing: A Memoir of the Craft,Stephen King,Stephen Curry: Never Give Up. A Boy Who Became a Star. Inspiring Children Book About One of the Best Basketball Players in History.,Stephen Herman
+468,468,a54,b1215,Where the Sidewalk Ends,Shel Silverstein,Where the Sidewalk Ends: Poems and Drawings,Shel Silverstein
+469,469,a55,b1560,Where the Wild Things Are,Maurice Sendak,Where the Wild Things Are,Maurice Sendak
+470,470,a557,b2980,The Horse and His Boy (Chronicles of Narnia #5),C.S. Lewis,"The Lion, the Witch and the Wardrobe (The Chronicles of Narnia)", C. S. Lewis
+471,471,a56,b2163,One Hundred Years of Solitude,Gabriel García Márquez,One Hundred Years of Solitude (Harper Perennial Modern Classics),Gabriel Garcia Marquez and 
+472,472,a560,b1604,The Lost Hero (The Heroes of Olympus #1),Rick Riordan,The Heroes of Olympus Paperback Boxed Set,Rick Riordan and 
+473,473,a563,b31,All the Light We Cannot See,Anthony Doerr,All the Light We Cannot See: A Novel,Anthony Doerr
+474,474,a567,b1174,The Total Money Makeover: A Proven Plan for Financial Fitness,Dave Ramsey,The Total Money Makeover: Classic Edition: A Proven Plan for Financial Fitness,Dave Ramsey
+475,475,a57,b2924,Ender's Game (Ender's Saga #1),Orson Scott Card,Ender's Game (The Ender Quartet series Book 1),Orson Scott Card
+476,476,a573,b1712,The Story of Ferdinand,Munro Leaf,The Story of Ferdinand,Munro Leaf and 
+477,477,a574,b2977,Jane Austen: Pride and Prejudice Mansfield Park Persuasion,Jane Austen,Pride and Prejudice,Jane Austen
+478,478,a575,b1052,Le Morte d'Arthur: King Arthur and the Legends of the Round Table,Thomas Malory,Beyond Anger: A Guide for Men: How to Free Yourself from the Grip of Anger and Get More Out of Life,Thomas J. Harbin
+479,479,a579,b295,Quiet: The Power of Introverts in a World That Can't Stop Talking,Susan Cain,Quiet: The Power of Introverts in a World That Can't Stop Talking,Susan Cain
+480,480,a579,b362,Quiet: The Power of Introverts in a World That Can't Stop Talking,Susan Cain,The First World War: A Brief History with Documents (The Bedford Series in History and Culture),Susan R. Grayzel
+481,481,a59,b2702,The Adventures of Tom Sawyer,Mark Twain,All That Ails You: The Adventures of a Canine Caregiver,Mark J. Asher
+482,482,a59,b2992,The Adventures of Tom Sawyer,Mark Twain,The Adventures of Huckleberry Finn (Bantam Classic), Mark Twain
+483,483,a593,b2740,Book of Mormon Doctrine and Covenants Pearl of Great Price,The Church of Jesus Christ of Latter-day Saints,Southern Living Ultimate Book of BBQ: The Complete Year-Round Guide to Grilling and Smoking,The Editors of Southern Living and 
+484,484,a597,b865,Miss Peregrine’s Home for Peculiar Children (Miss Peregrine’s Peculiar Children #1),Ransom Riggs,Miss Peregrine's Home for Peculiar Children (Miss Peregrine's Peculiar Children),Ransom Riggs
+485,485,a60,b1015,Anne of Green Gables (Anne of Green Gables #1),L.M. Montgomery,Anne of Green Gables: illustrated - first published in 1908 (1st. Page Classics),Lucy Maud Montgomery
+486,486,a61,b924,A Tale of Two Cities,Charles Dickens,A Tale of Two Cities,Charles Dickens
+487,487,a610,b2135,Blink: The Power of Thinking Without Thinking,Malcolm Gladwell,Blink: The Power of Thinking Without Thinking,Malcolm Gladwell
+488,488,a618,b1544,Fifty Shades of Grey (Fifty Shades #1),E.L. James,Fifty Shades Trilogy (Fifty Shades of Grey / Fifty Shades Darker / Fifty Shades Freed),E L James
+489,489,a618,b1658,Fifty Shades of Grey (Fifty Shades #1),E.L. James,Darker: Fifty Shades Darker as Told by Christian (Fifty Shades of Grey),E L James
+490,490,a624,b1199,The Time Trilogy (A Wrinkle in Time Quintet #1-3),Madeleine L'Engle,A Wrinkle in Time Movie Tie-In Edition (A Wrinkle in Time Quintet),Madeleine L'Engle
+491,491,a624,b1306,The Time Trilogy (A Wrinkle in Time Quintet #1-3),Madeleine L'Engle,A Wrinkle in Time (Time Quintet),Madeleine L'Engle
+492,492,a624,b1315,The Time Trilogy (A Wrinkle in Time Quintet #1-3),Madeleine L'Engle,The Wrinkle in Time Quintet Boxed Set (A Wrinkle in Time A Wind in the Door A Swiftly Tilting Planet Many Waters An Acceptable Time),Madeleine L'Engle
+493,493,a624,b1525,The Time Trilogy (A Wrinkle in Time Quintet #1-3),Madeleine L'Engle,A Wrinkle in Time: The Graphic Novel,Madeleine L'Engle and 
+494,494,a624,b1648,The Time Trilogy (A Wrinkle in Time Quintet #1-3),Madeleine L'Engle,Wrinkle in Time / Wind in the Door / Swiftly Tiltling Planet,Madeleine L'Engle
+495,495,a624,b1681,The Time Trilogy (A Wrinkle in Time Quintet #1-3),Madeleine L'Engle,A Wind in the Door (A Wrinkle in Time Quintet),Madeleine L'Engle
+496,496,a624,b1750,The Time Trilogy (A Wrinkle in Time Quintet #1-3),Madeleine L'Engle,A Wrinkle in Time: 50th Anniversary Commemorative Edition (A Wrinkle in Time Quintet),Madeleine L'Engle
+497,497,a624,b2144,The Time Trilogy (A Wrinkle in Time Quintet #1-3),Madeleine L'Engle,A Swiftly Tilting Planet (A Wrinkle in Time Quintet),Madeleine L'Engle
+498,498,a624,b2828,The Time Trilogy (A Wrinkle in Time Quintet #1-3),Madeleine L'Engle,A Wrinkle in Time (A Wrinkle in Time Quintet Book 1),Madeleine L'Engle
+499,499,a63,b1263,Oh The Places You'll Go!,Dr. Seuss,Oh the Places You'll Go!  ,Dr. Seuss
+500,500,a630,b1463,The Last Olympian (Percy Jackson and the Olympians #5),Rick Riordan,Percy Jackson and the Olympians 5 Book Paperback Boxed Set (new covers w/poster) (Percy Jackson & the Olympians),Rick Riordan and 
+501,501,a654,b2497,The Girl on the Train,Paula Hawkins,The Girl on the Train,Paula Hawkins
+502,502,a66,b1737,The Catcher in the Rye,J.D. Salinger,The Catcher in the Rye,J.D. Salinger
+503,503,a66,b2983,The Catcher in the Rye,J.D. Salinger,The Catcher in the Rye,J.D. Salinger
+504,504,a695,b781,Ready Player One (Ready Player One #1),Ernest Cline,Ready Player One: A Novel,Ernest Cline
+505,505,a7,b2978,The Little Prince,Antoine de Saint-Exupéry,The Little Prince,Antoine de Saint-Exupry
+506,506,a708,b2961,The Color of Water: A Black Man's Tribute to His White Mother,James McBride,The Color of Water: A Black Man's Tribute to His White Mother,James McBride
+507,507,a708,b306,The Color of Water: A Black Man's Tribute to His White Mother,James McBride,The Range Bucket List: The Golf Adventure of a Lifetime,James Dodson
+508,508,a708,b381,The Color of Water: A Black Man's Tribute to His White Mother,James McBride,Going Home: A Novel of the Civil War,James D. Shipman
+509,509,a713,b1879,Gift from the Sea,Anne Morrow Lindbergh,Gift from the Sea: 50th-Anniversary Edition,Anne Morrow Lindbergh
+510,510,a72,b1751,The Fellowship of the Ring (The Lord of the Rings #1),J.R.R. Tolkien,The Hobbit and the Lord of the Rings (the Hobbit / the Fellowship of the Ring / the Two Towers / the,J.R.R. Tolkien
+511,511,a736,b1463,The Sea of Monsters (Percy Jackson and the Olympians #2),Rick Riordan,Percy Jackson and the Olympians 5 Book Paperback Boxed Set (new covers w/poster) (Percy Jackson & the Olympians),Rick Riordan and 
+512,512,a736,b1812,The Sea of Monsters (Percy Jackson and the Olympians #2),Rick Riordan,Magnus Chase and the Gods of Asgard Book 3 The Ship of the Dead,Rick Riordan
+513,513,a736,b2338,The Sea of Monsters (Percy Jackson and the Olympians #2),Rick Riordan,The Big Book of Sides: More than 450 Recipes for the Best Vegetables Grains Salads Breads Sauces and More,Rick Rodgers
+514,514,a736,b967,The Sea of Monsters (Percy Jackson and the Olympians #2),Rick Riordan,Hardwiring Happiness: The New Brain Science of Contentment Calm and Confidence,Rick Hanson
+515,515,a74,b2971,The Old Man and the Sea,Ernest Hemingway,The Old Man and The Sea,Ernest Hemingway
+516,516,a769,b1630,A Feast for Crows (A Song of Ice and Fire #4),George R.R. Martin,A Game of Thrones / A Clash of Kings / A Storm of Swords / A Feast of Crows / A Dance with Dragons,George R. R. Martin
+517,517,a77,b1426,The Handmaid's Tale,Margaret Atwood,The Handmaid's Tale,Margaret Atwood
+518,518,a778,b1414,Fox in Socks,Dr. Seuss,Dr. Seuss's Beginner Book Collection (Cat in the Hat One Fish Two Fish Green Eggs and Ham Hop on Pop Fox in Socks),Seuss
+519,519,a778,b1699,Fox in Socks,Dr. Seuss,Fox in Socks (Beginner Books),Dr. Seuss and 
+520,520,a794,b1463,The Battle of the Labyrinth (Percy Jackson and the Olympians #4),Rick Riordan,Percy Jackson and the Olympians 5 Book Paperback Boxed Set (new covers w/poster) (Percy Jackson & the Olympians),Rick Riordan and 
+521,521,a794,b1812,The Battle of the Labyrinth (Percy Jackson and the Olympians #4),Rick Riordan,Magnus Chase and the Gods of Asgard Book 3 The Ship of the Dead,Rick Riordan
+522,522,a794,b2338,The Battle of the Labyrinth (Percy Jackson and the Olympians #4),Rick Riordan,The Big Book of Sides: More than 450 Recipes for the Best Vegetables Grains Salads Breads Sauces and More,Rick Rodgers
+523,523,a794,b967,The Battle of the Labyrinth (Percy Jackson and the Olympians #4),Rick Riordan,Hardwiring Happiness: The New Brain Science of Contentment Calm and Confidence,Rick Hanson
+524,524,a799,b1463,The Titan's Curse (Percy Jackson and the Olympians #3),Rick Riordan,Percy Jackson and the Olympians 5 Book Paperback Boxed Set (new covers w/poster) (Percy Jackson & the Olympians),Rick Riordan and 
+525,525,a799,b1812,The Titan's Curse (Percy Jackson and the Olympians #3),Rick Riordan,Magnus Chase and the Gods of Asgard Book 3 The Ship of the Dead,Rick Riordan
+526,526,a8,b1450,The Great Gatsby,F. Scott Fitzgerald,The Great Gatsby,F. Scott Fitzgerald
+527,527,a803,b1766,A New Earth: Awakening to Your Life's Purpose,Eckhart Tolle,A New Earth: Awakening to Your Life's Purpose (Oprah's Book Club Selection 61),Eckhart Tolle
+528,528,a814,b1551,The Dark Tower Books 1-3: The Gunslinger The Drawing of the Three and The Waste Lands,Stephen King,The Illustrated Brief History of Time Updated and Expanded Edition,Stephen William Hawking
+529,529,a821,b152,The Secret of the Old Clock (Nancy Drew Mystery Stories #1),Carolyn Keene,Plain Jane: A mystery/thriller not for the faint of heart (The Harbinger Murder Mystery Series Book 1),Carolyn McCray
+530,530,a828,b1587,Incidents in the Life of a Slave Girl,Harriet Ann Jacobs,The Way of Abundance: A 60-Day Journey into a Deeply Meaningful Life,Ann Voskamp
+531,531,a837,b2924,Ender's Shadow (The Shadow Series #1),Orson Scott Card,Ender's Game (The Ender Quartet series Book 1),Orson Scott Card
+532,532,a84,b1345,Goodnight Moon,Margaret Wise Brown,Goodnight Moon,Margaret Wise Brown and 
+533,533,a847,b612,Fall of Giants (The Century Trilogy #1),Ken Follett,Fall of Giants: Book One of the Century Trilogy,Ken Follett
+534,534,a849,b611,The Myth of Sisyphus and Other Essays,Albert Camus,For the Sins of My Father: A Mafia Killer His Son and the Legacy of a Mob Life,Albert DeMeo
+535,535,a850,b2647,Plague of Angels (The Descended #1),John Patrick Kennedy,Shadows of the Stone Benders (The Anlon Cully Chronicles) (Volume 1),K Patrick Donoghue
+536,536,a852,b1451,Rich Dad Poor Dad,Robert T. Kiyosaki,Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!,Robert T. Kiyosaki
+537,537,a855,b630,Bentwhistle the Dragon in a Threat from the Past,Paul Cude,Book Publishing for Authors: How to Write Publish and Market Your Book to a #1 Bestseller in the Next 90 Days (Paul G. Brodie Publishing Series Book 2) (Volume 1),Paul Brodie
+538,538,a87,b2177,The Little House Collection (Little House #1-9),Laura Ingalls Wilder,The Little House (9 Volumes Set),Laura Ingalls Wilder and 
+539,539,a892,b1782,The Complete Calvin and Hobbes,Bill Watterson,The Complete Calvin and Hobbes,Bill Watterson
+540,540,a9,b1751,The Lord of the Rings (The Lord of the Rings #1-3),J.R.R. Tolkien,The Hobbit and the Lord of the Rings (the Hobbit / the Fellowship of the Ring / the Two Towers / the,J.R.R. Tolkien
+541,541,a911,b1298,The Miracle of Mindfulness: An Introduction to the Practice of Meditation,Thich Nhat Hanh,Walking Meditation: Peace is Every Step. It Turns the Endless Path to Joy,Thich Nhat Hanh and 
+542,542,a917,b1889,Mere Christianity and The Screwtape Letters,C.S. Lewis,The Screwtape Letters,C. S. Lewis
+543,543,a919,b1579,The Universe in a Nutshell,Stephen Hawking,The Universe in a Nutshell,Stephen William Hawking
+544,544,a919,b963,The Universe in a Nutshell,Stephen Hawking,Stephen Curry: Never Give Up. A Boy Who Became a Star. Inspiring Children Book About One of the Best Basketball Players in History.,Stephen Herman
+545,545,a928,b2895,The Westing Game,Ellen Raskin,The Westing Game (Puffin Modern Classics),Ellen Raskin
+546,546,a933,b2647,The Knife of Never Letting Go (Chaos Walking #1),Patrick Ness,Shadows of the Stone Benders (The Anlon Cully Chronicles) (Volume 1),K Patrick Donoghue
+547,547,a959,b1811,The Elegant Universe: Superstrings Hidden Dimensions and the Quest for the Ultimate Theory,Brian Greene,The Explosive Child: A New Approach for Understanding and Parenting Easily Frustrated Chronically Inflexible Children,Ross W. Greene PhD
+548,548,a96,b1432,Harry Potter and the Chamber of Secrets (Harry Potter #2),J.K. Rowling,Harry Potter and the Prisoner of Azkaban: The Illustrated Edition (Harry Potter Book 3),J.K. Rowling and 
+549,549,a96,b1477,Harry Potter and the Chamber of Secrets (Harry Potter #2),J.K. Rowling,Harry Potter and the Chamber of Secrets: The Illustrated Edition (Harry Potter Book 2),J.K. Rowling and 
+550,550,a96,b1521,Harry Potter and the Chamber of Secrets (Harry Potter #2),J.K. Rowling,Harry Potter and the Sorcerer's Stone,J.K. Rowling and 
+551,551,a96,b1679,Harry Potter and the Chamber of Secrets (Harry Potter #2),J.K. Rowling,Harry Potter and the Sorcerer's Stone: The Illustrated Edition (Harry Potter Book 1),J.K. Rowling and 
+552,552,a96,b1779,Harry Potter and the Chamber of Secrets (Harry Potter #2),J.K. Rowling,Harry Potter And The Chamber Of Secrets,J. K. Rowling and 
+553,553,a96,b1922,Harry Potter and the Chamber of Secrets (Harry Potter #2),J.K. Rowling,Harry Potter And The Goblet Of Fire,J.K. Rowling and 
+554,554,a96,b1933,Harry Potter and the Chamber of Secrets (Harry Potter #2),J.K. Rowling,Harry Potter and the Prisoner of Azkaban,J.K. Rowling and 
+555,555,a96,b2020,Harry Potter and the Chamber of Secrets (Harry Potter #2),J.K. Rowling,Harry Potter And The Order Of The Phoenix,J.K. Rowling and 
+556,556,a96,b2981,Harry Potter and the Chamber of Secrets (Harry Potter #2),J.K. Rowling,Harry Potter and the Deathly Hallows (Book 7),J. K. Rowling
+557,557,a96,b2997,Harry Potter and the Chamber of Secrets (Harry Potter #2),J.K. Rowling,Harry Potter and the Half-Blood Prince (Book 6),J.K. Rowling
+558,558,a967,b1833,The Way of Kings (The Stormlight Archive #1),Brandon Sanderson,Oathbringer: Book Three of the Stormlight Archive,Brandon Sanderson
+559,559,a971,b700,Let the Right One In,John Ajvide Lindqvist,Stephen Curry: Rise of the Star. The inspiring and interesting life story from a struggling young boy to become the legend. Life of Stephen Curry - one of the best basketball shooters in history.,John Emerson
+560,560,a974,b1012,The Strange Case of Dr. Jekyll and Mr. Hyde and Other Tales of Terror,Robert Louis Stevenson,The Million Dollar Decision: Get Out of the Rigged Game of Investing and Add a Million to Your Net Worth,Robert Rolih
+561,561,a974,b2871,The Strange Case of Dr. Jekyll and Mr. Hyde and Other Tales of Terror,Robert Louis Stevenson,The Tony Award: A Complete Listing of Winners and Nominees with a History of the American Theatre Wing,Isabelle Stevenson and 
+562,562,a974,b583,The Strange Case of Dr. Jekyll and Mr. Hyde and Other Tales of Terror,Robert Louis Stevenson,Behave: The Biology of Humans at Our Best and Worst,Robert M. Sapolsky
+563,563,a981,b2398,The Light Between Oceans,M.L. Stedman,The Light Between Oceans: A Novel,M.L. Stedman
+564,564,a986,b700,Look Me in the Eye: My Life with Asperger's,John Elder Robison,Stephen Curry: Rise of the Star. The inspiring and interesting life story from a struggling young boy to become the legend. Life of Stephen Curry - one of the best basketball shooters in history.,John Emerson
