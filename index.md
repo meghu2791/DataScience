@@ -24,3 +24,8 @@ Stage 3
 - [CODE](https://github.com/meghu2791/DataScience/tree/master/Stage3/CODE)
 - [DATA](https://github.com/meghu2791/DataScience/tree/master/Stage3/DATA)
 - [Report](https://github.com/meghu2791/DataScience/tree/master/Stage3/Stage3_report.pdf)
+
+Stage 4
+- [CODE] (https://github.com/meghu2791/DataScience/tree/master/Stage4/stage4/merge.py)
+- [DATA](https://github.com/meghu2791/DataScience/tree/master/Stage4/Table E.csv)
+- [Report](https://github.com/meghu2791/DataScience/tree/master/Stage4/Stage4_report.pdf)
