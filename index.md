@@ -1,11 +1,13 @@
 ## Data Science Project - CS 838
 
-Entity Extraction.
+Entity Extraction and matching.
+Analysis of state-of-the-art entity matching papers: Magellan (https://sigmodrecord.org/2018/08/09/magellan-toward-building-entity-matching-management-systems/) and DeepMatcher (http://pages.cs.wisc.edu/~anhai/papers1/deepmatcher-tr.pdf)
 
 ### Team Members
-- Akila Nagamani (nagamani@wisc.edu)
 - Arjun Kashyap (akashyap3@wisc.edu)
 - Meghana Moorthy Bhat (mbhat2@wisc.edu)
+- Akila Nagamani (nagamani@wisc.edu)
+
 
 #### Links
 Stage 1
